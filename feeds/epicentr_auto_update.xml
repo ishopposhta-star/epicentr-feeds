@@ -1,2 +1,178 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="init"><shop><offers/></shop></yml_catalog>
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2025-08-27 16:06">
+  <shop>
+    <offers>
+      <offer id="b-LL1206" available="true">
+        <price>1399</price>
+      </offer>
+      <offer id="b-32322002" available="true">
+        <price>12749</price>
+      </offer>
+      <offer id="b-MI6538" available="true">
+        <price>2399</price>
+      </offer>
+      <offer id="b-CH6184" available="true">
+        <price>749</price>
+      </offer>
+      <offer id="b-MI6178" available="true">
+        <price>899</price>
+      </offer>
+      <offer id="b-CH0024" available="true">
+        <price>999</price>
+      </offer>
+      <offer id="b-ZX3133" available="true">
+        <price>1149</price>
+      </offer>
+      <offer id="b-MI6307" available="true">
+        <price>749</price>
+      </offer>
+      <offer id="b-MI6362" available="true">
+        <price>1099</price>
+      </offer>
+      <offer id="b-31234001" available="true">
+        <price>5049</price>
+      </offer>
+      <offer id="b-MI6575" available="true">
+        <price>749</price>
+      </offer>
+      <offer id="b-KR5005" available="true">
+        <price>3749</price>
+      </offer>
+      <offer id="b-HB0044" available="true">
+        <price>899</price>
+      </offer>
+      <offer id="b-HB0091" available="true">
+        <price>1299</price>
+      </offer>
+      <offer id="b-CH0333" available="true">
+        <price>849</price>
+      </offer>
+      <offer id="b-ZX2965" available="true">
+        <price>549</price>
+      </offer>
+      <offer id="b-ZX4865" available="true">
+        <price>2049</price>
+      </offer>
+      <offer id="b-HB0816" available="true">
+        <price>2999</price>
+      </offer>
+      <offer id="b-HB0699" available="true">
+        <price>1099</price>
+      </offer>
+      <offer id="b-MI6108" available="true">
+        <price>799</price>
+      </offer>
+      <offer id="b-AR0011" available="true">
+        <price>599</price>
+      </offer>
+      <offer id="b-GF1304" available="true">
+        <price>649</price>
+      </offer>
+      <offer id="b-PM0015" available="true">
+        <price>299</price>
+      </offer>
+      <offer id="b-CH6487" available="true">
+        <price>499</price>
+      </offer>
+      <offer id="b-ZX2930" available="true">
+        <price>749</price>
+      </offer>
+      <offer id="b-ZX0058" available="true">
+        <price>749</price>
+      </offer>
+      <offer id="b-HB3908" available="true">
+        <price>2849</price>
+      </offer>
+      <offer id="b-KR5201" available="true">
+        <price>6399</price>
+      </offer>
+      <offer id="b-CH6450" available="true">
+        <price>599</price>
+      </offer>
+      <offer id="b-CR0207" available="true">
+        <price>549</price>
+      </offer>
+      <offer id="b-ZX0717" available="true">
+        <price>949</price>
+      </offer>
+      <offer id="b-MI6315" available="true">
+        <price>749</price>
+      </offer>
+      <offer id="b-ZX3169" available="true">
+        <price>2199</price>
+      </offer>
+      <offer id="b-CH0294" available="true">
+        <price>749</price>
+      </offer>
+      <offer id="b-PM0696" available="true">
+        <price>299</price>
+      </offer>
+      <offer id="b-MI6288" available="true">
+        <price>699</price>
+      </offer>
+      <offer id="b-30543000" available="true">
+        <price>6899</price>
+      </offer>
+      <offer id="b-EP0088" available="true">
+        <price>999</price>
+      </offer>
+      <offer id="b-MI6470" available="true">
+        <price>699</price>
+      </offer>
+      <offer id="b-HB0388" available="true">
+        <price>1199</price>
+      </offer>
+      <offer id="b-EP0065" available="true">
+        <price>949</price>
+      </offer>
+      <offer id="b-LA0014" available="true">
+        <price>2549</price>
+      </offer>
+      <offer id="b-CH0344" available="true">
+        <price>749</price>
+      </offer>
+      <offer id="b-ZX0023" available="true">
+        <price>1099</price>
+      </offer>
+      <offer id="b-MI6965" available="true">
+        <price>1849</price>
+      </offer>
+      <offer id="b-MI6342" available="true">
+        <price>1849</price>
+      </offer>
+      <offer id="b-ZX5845" available="true">
+        <price>799</price>
+      </offer>
+      <offer id="b-ZX0103" available="true">
+        <price>749</price>
+      </offer>
+      <offer id="b-MI6223" available="true">
+        <price>849</price>
+      </offer>
+      <offer id="b-GF1006" available="true">
+        <price>699</price>
+      </offer>
+      <offer id="b-ZX2665" available="true">
+        <price>949</price>
+      </offer>
+      <offer id="b-KR3392" available="true">
+        <price>4749</price>
+      </offer>
+      <offer id="b-MI6345" available="true">
+        <price>1499</price>
+      </offer>
+      <offer id="b-MI6292" available="true">
+        <price>699</price>
+      </offer>
+      <offer id="b-PM0614" available="true">
+        <price>399</price>
+      </offer>
+      <offer id="b-ZX5034" available="true">
+        <price>1199</price>
+      </offer>
+      <offer id="b-HB0128" available="true">
+        <price>1349</price>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
