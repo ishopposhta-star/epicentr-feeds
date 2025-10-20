@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-10-20 18:45">
+<yml_catalog date="2025-10-20 22:02">
   <shop>
     <offers>
       <offer id="b-LL1206" available="true">
@@ -1149,84 +1149,84 @@
         <price_old>1399</price_old>
       </offer>
       <offer id="b-MI6974" available="true">
-        <price>2549</price>
-        <price_old>3199</price_old>
+        <price>2399</price>
+        <price_old>2999</price_old>
       </offer>
       <offer id="b-32321002" available="true">
-        <price>13899</price>
-        <price_old>17399</price_old>
+        <price>13749</price>
+        <price_old>17199</price_old>
       </offer>
       <offer id="b-PM0714" available="true">
-        <price>749</price>
-        <price_old>999</price_old>
+        <price>899</price>
+        <price_old>1199</price_old>
       </offer>
       <offer id="b-305672430" available="true">
-        <price>9599</price>
-        <price_old>11999</price_old>
+        <price>9449</price>
+        <price_old>11899</price_old>
       </offer>
       <offer id="b-30619000" available="true">
-        <price>10299</price>
-        <price_old>12899</price_old>
+        <price>10149</price>
+        <price_old>12699</price_old>
       </offer>
       <offer id="b-MI0585" available="true">
-        <price>1449</price>
-        <price_old>1899</price_old>
-      </offer>
-      <offer id="b-MI5785" available="true">
         <price>1499</price>
         <price_old>1899</price_old>
       </offer>
+      <offer id="b-MI5785" available="true">
+        <price>1549</price>
+        <price_old>1999</price_old>
+      </offer>
       <offer id="b-IB0048" available="true">
-        <price>1799</price>
-        <price_old>2299</price_old>
+        <price>1649</price>
+        <price_old>2099</price_old>
       </offer>
       <offer id="b-MI6195" available="true">
-        <price>1049</price>
-        <price_old>1399</price_old>
+        <price>1149</price>
+        <price_old>1499</price_old>
       </offer>
       <offer id="b-MI6269" available="true">
-        <price>1049</price>
-        <price_old>1399</price_old>
+        <price>1149</price>
+        <price_old>1499</price_old>
       </offer>
       <offer id="b-CR0194" available="true">
-        <price>999</price>
-        <price_old>1299</price_old>
+        <price>1149</price>
+        <price_old>1499</price_old>
       </offer>
       <offer id="b-HB0192" available="true">
-        <price>2149</price>
+        <price>2099</price>
         <price_old>2699</price_old>
       </offer>
       <offer id="b-PM0615" available="true">
-        <price>499</price>
-        <price_old>699</price_old>
-      </offer>
-      <offer id="b-ZX0716" available="true">
-        <price>1099</price>
-        <price_old>1399</price_old>
-      </offer>
-      <offer id="b-ZX4763" available="true">
-        <price>1099</price>
-        <price_old>1399</price_old>
-      </offer>
-      <offer id="b-CH6187" available="true">
         <price>699</price>
         <price_old>899</price_old>
+      </offer>
+      <offer id="b-ZX0716" available="true">
+        <price>1199</price>
+        <price_old>1499</price_old>
+      </offer>
+      <offer id="b-ZX4763" available="true">
+        <price>1199</price>
+        <price_old>1499</price_old>
+      </offer>
+      <offer id="b-CH6187" available="true">
+        <price>849</price>
+        <price_old>1099</price_old>
       </offer>
       <offer id="b-ZX4874" available="true">
         <price>1649</price>
         <price_old>2099</price_old>
       </offer>
       <offer id="b-CH0331" available="true">
-        <price>999</price>
-        <price_old>1299</price_old>
+        <price>1049</price>
+        <price_old>1399</price_old>
       </offer>
       <offer id="b-MI6081" available="true">
-        <price>1399</price>
-        <price_old>1799</price_old>
+        <price>1499</price>
+        <price_old>1899</price_old>
       </offer>
       <offer id="b-MI2762" available="true">
-        <price>949</price>
-        <price_old>1199</price_old>
+        <price>1099</price>
+        <price_old>1399</price_old>
       </offer>
     </offers>
   </shop>
