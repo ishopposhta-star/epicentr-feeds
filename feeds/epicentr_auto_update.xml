@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-11-12 22:35">
+<yml_catalog date="2025-11-13 22:00">
   <shop>
     <offers>
       <offer id="b-LL1206" available="false">
@@ -3856,6 +3856,126 @@
       <offer id="b-MI1584" available="true">
         <price>1249</price>
         <price_old>1599</price_old>
+      </offer>
+      <offer id="b-CR0791" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-ZX0165" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6425" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-CR0856" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-CR0053" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6599" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6478" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI0618" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6566" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-CH6536" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-ZX4869" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-HB0380" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI2766" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MX0787" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-EP0036" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-ZX3134" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-EP0072" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-ZX4873" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-ZX4825" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-HB0034" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-HB0092" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6344" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-ZX0239" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-CR0212" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-CR0833" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-ZX3108" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-KR5548" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6358" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-ZX4875" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6474" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-PM0686" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6483" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MX0014" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6479" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-ZX4862" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6306" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-MI6413" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-PM0715" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-GF0008" available="false">
+        <price>0</price>
+      </offer>
+      <offer id="b-CH6449" available="false">
+        <price>0</price>
       </offer>
     </offers>
   </shop>
