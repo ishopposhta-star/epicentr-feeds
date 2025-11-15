@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-11-13 13:59">
+<yml_catalog date="2025-11-15 21:34">
   <offers>
     <offer id="b-X105" available="true">
       <price>1199</price>
@@ -15,95 +15,89 @@
       <picture>https://cdn.27.ua/sc--media--prod/default/7d/17/56/7d1756eb-224e-40bc-82fd-4fc7eef5d451.png</picture>
       <picture>https://cdn.27.ua/sc--media--prod/default/b3/b3/95/b3b39520-83b2-4506-8744-48c49fee3c72.png</picture>
       <picture>https://cdn.27.ua/sc--media--prod/default/3f/d7/b5/3fd7b5f9-84da-4e6f-80a8-c7384bd34c7b.png</picture>
-      <description lang="ru">&amp;lt;div&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативный универсальный пауэрбанк Smart X 20000 mAh (Fast Charge, 4 встроенных кабеля, черный с желтым)&amp;lt;/b&amp;gt; — это компактное и мощное зарядное устройство, предназначенное для смартфонов, планшетов и других электронных гаджетов. Он поддерживает быструю зарядку и имеет четыре интегрированных кабеля для максимального удобства использования.&amp;lt;/p&amp;gt;
-
+      <description lang="ru">&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативный универсальный пауэрбанк Smart X 20000 mAh (Fast Charge, 4 встроенных кабеля, черный с желтым)&amp;lt;/b&amp;gt; — это компактное и мощное зарядное устройство, предназначенное для смартфонов, планшетов и других электронных гаджетов. Он поддерживает технологию быстрой зарядки и имеет четыре интегрированных кабеля для максимального удобства использования.&amp;lt;/p&amp;gt;
+  
 &amp;lt;b&amp;gt;Основные преимущества и характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
 &amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость 20000 mAh&amp;lt;/b&amp;gt; обеспечивает многократную подзарядку различных устройств.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Поддержка технологии Fast Charge&amp;lt;/b&amp;gt; позволяет значительно сократить время зарядки.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Четыре встроенных кабеля:&amp;lt;/b&amp;gt; Lightning, USB‑C, Micro USB, USB‑A.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Два USB‑A выходных порта&amp;lt;/b&amp;gt; и &amp;lt;b&amp;gt;один USB‑C входной порт&amp;lt;/b&amp;gt;.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Светодиодные индикаторы&amp;lt;/b&amp;gt; показывают уровень заряда аккумулятора.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Защита от перепадов температуры, напряжения, перезаряда и глубокого разряда.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Возможность использования во время полетов на самолете.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактные габариты:&amp;lt;/b&amp;gt; 15 × 6 × 3 см.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус с прозрачными вставками&amp;lt;/b&amp;gt; и удобный ремешок для переноски.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние устройства — новое.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Большая емкость — 20000 mAh&amp;lt;/b&amp;gt;, что позволяет заряжать устройства много раз.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Поддержка Fast Charge&amp;lt;/b&amp;gt; для более быстрой зарядки.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Четыре встроенных кабеля:&amp;lt;/b&amp;gt; Lightning, USB‑C, Micro USB, USB‑A.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Два USB‑A выходных порта&amp;lt;/b&amp;gt; и &amp;lt;b&amp;gt;один USB‑C входной порт&amp;lt;/b&amp;gt;.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Светодиодные индикаторы&amp;lt;/b&amp;gt; для отображения уровня заряда.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Защита от перепадов температуры, перенапряжения, перезаряда и глубокого разряда.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Возможность безопасного использования во время авиаперелетов.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактные габариты:&amp;lt;/b&amp;gt; 15 × 6 × 3 см.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус с прозрачными вставками&amp;lt;/b&amp;gt; и удобный ремешок для переноски.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние устройства — новое.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;
-
+  
 &amp;lt;b&amp;gt;Технические характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
 &amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип устройства:&amp;lt;/b&amp;gt; универсальный пауэрбанк.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип аккумулятора:&amp;lt;/b&amp;gt; литий-полимерный (Li‑Pol).&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость батареи:&amp;lt;/b&amp;gt; 20000 mAh.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Выходное напряжение:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный выходной ток:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Входное напряжение:&amp;lt;/b&amp;gt; 5 В.
-  &amp;lt;ul&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный входной ток:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
-  &amp;lt;/ul&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Количество устройств, которые можно заряжать одновременно:&amp;lt;/b&amp;gt; до 6.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Разъемы:&amp;lt;/b&amp;gt; USB‑A (2 шт.), USB‑C (вход).&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Материал корпуса:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цвет корпуса:&amp;lt;/b&amp;gt; черный с желтыми элементами.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вес:&amp;lt;/b&amp;gt; примерно 450 г.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние:&amp;lt;/b&amp;gt; новое.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип устройства:&amp;lt;/b&amp;gt; универсальный пауэрбанк.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Аккумулятор:&amp;lt;/b&amp;gt; литий-полимерный (Li‑Pol).&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость батареи:&amp;lt;/b&amp;gt; 20000 mAh.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Выходное напряжение:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный выходной ток:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Входное напряжение:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный входной ток:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Количество устройств, которые можно заряжать одновременно:&amp;lt;/b&amp;gt; до 6.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Разъёмы:&amp;lt;/b&amp;gt; два USB‑A для выхода, один USB‑C для входа.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Материал корпуса:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цвет корпуса:&amp;lt;/b&amp;gt; черный с желтыми акцентами.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вес:&amp;lt;/b&amp;gt; примерно 450 г.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние:&amp;lt;/b&amp;gt; новое.&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;
-
+  
 &amp;lt;b&amp;gt;Комплектация:&amp;lt;/b&amp;gt;
 &amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Пауэрбанк Smart X — 1 штука.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Четыре встроенных кабеля разных типов.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ремешок для удобной переноски.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка в виде блистера.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-&amp;lt;/div&amp;gt;</description>
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Пауэрбанк Smart X — 1 штука.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Четыре встроенных кабеля разных типов.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ремешок для удобной переноски.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка в виде блистера.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>
       <description lang="ua">&amp;lt;div&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативний універсальний павербанк Smart X 20000 mAh (Fast Charge, 4 вбудовані кабелі, чорний з жовтим)&amp;lt;/b&amp;gt; — це компактний та потужний зарядний пристрій, призначений для смартфонів, планшетів і інших електронних гаджетів. Він підтримує швидку зарядку і має чотири інтегровані кабелі для максимальної зручності використання.&amp;lt;/p&amp;gt;
-
-&amp;lt;b&amp;gt;Основні переваги та характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність 20000 mAh&amp;lt;/b&amp;gt; забезпечує багаторазове підзаряджання різних пристроїв.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Підтримка технології Fast Charge&amp;lt;/b&amp;gt; дозволяє значно скоротити час заряджання.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Чотири вбудовані кабелі:&amp;lt;/b&amp;gt; Lightning, USB‑C, Micro USB, USB‑A.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Два USB‑A вихідні порти&amp;lt;/b&amp;gt; та &amp;lt;b&amp;gt;один USB‑C вхідний порт&amp;lt;/b&amp;gt;.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Світлодіодні індикатори&amp;lt;/b&amp;gt; показують рівень заряду акумулятора.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Захист від перепадів температури, напруги, перезаряду і глибокого розряду.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Можливість використання під час польотів на літаку.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактні габарити:&amp;lt;/b&amp;gt; 15 × 6 × 3 см.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус із прозорими вставками&amp;lt;/b&amp;gt; та зручний ремінець для перенесення.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан пристрою — новий.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;b&amp;gt;Технічні характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип пристрою:&amp;lt;/b&amp;gt; універсальний павербанк.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип акумулятора:&amp;lt;/b&amp;gt; літій-полімерний (Li‑Pol).&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність батареї:&amp;lt;/b&amp;gt; 20000 mAh.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вихідна напруга:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальний вихідний струм:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вхідна напруга:&amp;lt;/b&amp;gt; 5 В.
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативний універсальний павербанк Smart X 20000 mAh (Fast Charge, 4 вбудовані кабелі, чорний з жовтим)&amp;lt;/b&amp;gt; — це компактний та потужний зарядний пристрій, призначений для смартфонів, планшетів і інших електронних гаджетів. Він підтримує технологію швидкої зарядки та має чотири інтегровані кабелі для максимальної зручності використання.&amp;lt;/p&amp;gt;
+  
+  &amp;lt;b&amp;gt;Основні переваги та характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
   &amp;lt;ul&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальний вхідний струм:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Велика ємність — 20000 mAh&amp;lt;/b&amp;gt;, що дозволяє заряджати пристрої багато разів.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Підтримка Fast Charge&amp;lt;/b&amp;gt; для швидшої зарядки.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Чотири вбудовані кабелі:&amp;lt;/b&amp;gt; Lightning, USB‑C, Micro USB, USB‑A.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Два USB‑A вихідні порти&amp;lt;/b&amp;gt; та &amp;lt;b&amp;gt;один USB‑C вхідний порт&amp;lt;/b&amp;gt;.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Світлодіодні індикатори&amp;lt;/b&amp;gt; для відображення рівня заряду.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Захист від перепадів температури, перенапруги, перезаряду та глибокого розряду.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Можливість безпечного використання під час авіаперельотів.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактні габарити:&amp;lt;/b&amp;gt; 15 × 6 × 3 см.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус із прозорими вставками&amp;lt;/b&amp;gt; та зручний ремінець для перенесення.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан пристрою — новий.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
   &amp;lt;/ul&amp;gt;
-&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Кількість пристроїв, які можна заряджати одночасно:&amp;lt;/b&amp;gt; до 6.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Роз’єми:&amp;lt;/b&amp;gt; USB‑A (2 шт.), USB‑C (вхід).&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Матеріал корпусу:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Колір корпусу:&amp;lt;/b&amp;gt; чорний із жовтими елементами.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вага:&amp;lt;/b&amp;gt; приблизно 450 г.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан:&amp;lt;/b&amp;gt; новий.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;b&amp;gt;Комплектація:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Павербанк Smart X — 1 одиниця.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Чотири вбудовані кабелі різних типів.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ремінець для зручного перенесення.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка у вигляді блістера.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
+  
+  &amp;lt;b&amp;gt;Технічні характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип пристрою:&amp;lt;/b&amp;gt; універсальний павербанк.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Акумулятор:&amp;lt;/b&amp;gt; літій-полімерний (Li‑Pol).&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність батареї:&amp;lt;/b&amp;gt; 20000 mAh.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вихідна напруга:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальний вихідний струм:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вхідна напруга:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;
+      &amp;lt;b&amp;gt;Максимальний вхідний струм:&amp;lt;/b&amp;gt; 2.1 А.
+    &amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Кількість пристроїв, які можна заряджати одночасно:&amp;lt;/b&amp;gt; до 6.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Роз’єми:&amp;lt;/b&amp;gt; два USB‑A для виходу, один USB‑C для входу.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Матеріал корпусу:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Колір корпусу:&amp;lt;/b&amp;gt; чорний з жовтими акцентами.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вага:&amp;lt;/b&amp;gt; приблизно 450 г.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан:&amp;lt;/b&amp;gt; новий.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+  
+  &amp;lt;b&amp;gt;Комплектація:&amp;lt;/b&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Павербанк Smart X — 1 одиниця.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Чотири вбудовані кабелі різних типів.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ремінець для зручного перенесення.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка у вигляді блістера.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
 &amp;lt;/div&amp;gt;</description>
       <vendor code="afdgdim3tkjgernt">Smart X</vendor>
       <country_of_origin code="aut">Австрія</country_of_origin>
@@ -124,13 +118,13 @@
 Вхідний струм: до 2 А.
 Кількість одночасно заряджуваних пристроїв: 2.
 Роз’єми: USB‑A, USB‑C (вхід/вихід).</param>
-      <param name="Додаткові характеристики" paramcode="2771" lang="ru">Ёмкость: 5000 мАч.
-Максимальная выходная мощность: 22,5 Вт.
-Выходное напряжение: 5 В.
-Выходной ток: до 1,5 А.
-Входное напряжение: 5 В.
-Входной ток: до 2 А.
-Количество одновременно заряжаемых устройств: 2.
+      <param name="Додаткові характеристики" paramcode="2771" lang="ru">Ёмкость: 5000 мАч.  
+Максимальная выходная мощность: 22,5 Вт.  
+Выходное напряжение: 5 В.  
+Выходной ток: до 1,5 А.  
+Входное напряжение: 5 В.  
+Входной ток: до 2 А.  
+Количество одновременно заряжаемых устройств: 2.  
 Разъёмы: USB‑A, USB‑C (вход/выход).</param>
       <param name="Потужність" paramcode="3072" valuecode="5963c2691c08d62521a753ecba10f767">5 Вт</param>
       <param name="Вихідний струм та напруга" paramcode="11208" lang="ua">5 В.
@@ -174,38 +168,41 @@
       <picture>https://cdn.27.ua/sc--media--prod/default/51/a3/c7/51a3c7b9-0878-4e5e-92bc-d19ef1c91110.png</picture>
       <picture>https://cdn.27.ua/sc--media--prod/default/a9/47/f3/a947f333-8091-4275-9ad9-f8f04e8ecf44.png</picture>
       <picture>https://cdn.27.ua/sc--media--prod/default/bf/e8/3a/bfe83acf-0daa-4864-b722-da2a59919575.png</picture>
-      <description lang="ru">&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативный универсальный пауэрбанк Smart X 10000 mAh (MagSafe, Fast Charge, 3 встроенных кабеля, черный)&amp;lt;/b&amp;gt; — компактное зарядное устройство с магнитной беспроводной зарядкой, которое подходит для смартфонов, планшетов и других электронных устройств. Имеет функцию быстрой зарядки, три интегрированных кабеля и корпус с прозрачными элементами.&amp;lt;/p&amp;gt;
+      <description lang="ru">&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативный универсальный пауэрбанк Smart X 10000 mAh (MagSafe, Fast Charge, 3 встроенных кабеля, черный)&amp;lt;/b&amp;gt; — это удобное зарядное устройство с магнитной беспроводной зарядкой, которое подходит для смартфонов, планшетов и других электронных гаджетов. Устройство оснащено технологией быстрой зарядки, имеет три интегрированных кабеля и прозрачный корпус.&amp;lt;/p&amp;gt;
+  
 &amp;lt;b&amp;gt;Основные преимущества и характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
 &amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость 10000 mAh&amp;lt;/b&amp;gt; — обеспечивает примерно две полные зарядки смартфонов с аккумуляторами 4000–4500 mAh (в зависимости от модели и условий эксплуатации).&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость 10000 mAh&amp;lt;/b&amp;gt; — обеспечивает примерно две полные зарядки смартфонов с батареей 4000–4500 mAh, в зависимости от модели и условий эксплуатации.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Магнитная беспроводная зарядка MagSafe&amp;lt;/b&amp;gt; — позволяет заряжать совместимые устройства без использования кабелей.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Технология быстрой зарядки Fast Charge&amp;lt;/b&amp;gt; — значительно сокращает время зарядки поддерживаемых гаджетов.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Три встроенных кабеля&amp;lt;/b&amp;gt; — Lightning, USB‑C и USB‑A для подключения без необходимости дополнительных проводов.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Четыре разных порта&amp;lt;/b&amp;gt; — USB‑C, USB‑A, microUSB и Apple Lightning для широкой совместимости с разными устройствами.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цифровой индикатор&amp;lt;/b&amp;gt; — отображает текущий уровень заряда пауэрбанка.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Защитные функции&amp;lt;/b&amp;gt; — защита от перепадов температуры, перенапряжения, перезаряда и глубокого разряда.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Разрешено для использования на борту самолёта&amp;lt;/b&amp;gt; — соответствует авиационным требованиям.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактные габариты&amp;lt;/b&amp;gt; — 11 × 6,6 × 21 см.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Технология Fast Charge&amp;lt;/b&amp;gt; — значительно сокращает время зарядки поддерживаемых гаджетов.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Три встроенных кабеля&amp;lt;/b&amp;gt; — Lightning, USB‑C и USB‑A для подключения без дополнительных проводов.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Четыре разъема&amp;lt;/b&amp;gt; — USB‑C, USB‑A, microUSB и Apple Lightning для максимальной совместимости с разными устройствами.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цифровой дисплей&amp;lt;/b&amp;gt; — отображает текущий уровень заряда пауэрбанка.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Защита&amp;lt;/b&amp;gt; — от перепадов температуры, перенапряжения, перезаряда и глубокого разряда аккумулятора.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Возможность использования в самолетах&amp;lt;/b&amp;gt; — соответствует требованиям авиаперевозок.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактные размеры&amp;lt;/b&amp;gt; — 11 × 6,6 × 21 см, что делает устройство удобным для переноски.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус&amp;lt;/b&amp;gt; — изготовлен из прочного пластика с прозрачными вставками.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние устройства&amp;lt;/b&amp;gt; — новое.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние&amp;lt;/b&amp;gt; — новый.&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;
+  
 &amp;lt;b&amp;gt;Технические характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
 &amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип устройства:&amp;lt;/b&amp;gt; универсальный пауэрбанк.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип:&amp;lt;/b&amp;gt; универсальный портативный аккумулятор.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Аккумулятор:&amp;lt;/b&amp;gt; литий-полимерный (Li‑Pol).&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость батареи:&amp;lt;/b&amp;gt; 10000 mAh.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость:&amp;lt;/b&amp;gt; 10000 mAh.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Выходное напряжение:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный выходной ток:&amp;lt;/b&amp;gt; до 2 А.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Входное напряжение:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный входной ток:&amp;lt;/b&amp;gt; до 2 А.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Количество одновременно заряжаемых устройств:&amp;lt;/b&amp;gt; до 7 (включая беспроводную зарядку и все порты).&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Порты:&amp;lt;/b&amp;gt; USB‑A, USB‑C, microUSB, Lightning.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Количество одновременно заряжаемых устройств:&amp;lt;/b&amp;gt; до 7 (с учетом беспроводной зарядки и всех портов).&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Разъемы:&amp;lt;/b&amp;gt; USB‑A, USB‑C, microUSB, Lightning.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Материал корпуса:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цвет корпуса:&amp;lt;/b&amp;gt; черный с прозрачными элементами.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цвет:&amp;lt;/b&amp;gt; черный с прозрачными элементами.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Размеры:&amp;lt;/b&amp;gt; 110 × 66 × 210 мм.&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вес:&amp;lt;/b&amp;gt; 300 г.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние:&amp;lt;/b&amp;gt; новое.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние:&amp;lt;/b&amp;gt; новый.&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;
+  
 &amp;lt;b&amp;gt;Комплектация:&amp;lt;/b&amp;gt;
 &amp;lt;ul&amp;gt;
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Пауэрбанк Smart X 10000 mAh — 1 штука.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
@@ -213,38 +210,41 @@
   &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка (блистер).&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;</description>
       <description lang="ua">&amp;lt;div&amp;gt;
-  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативний універсальний павербанк Smart X 10000 mAh (MagSafe, Fast Charge, 3 вбудовані кабелі, чорний)&amp;lt;/b&amp;gt; — компактний зарядний пристрій із магнітною бездротовою зарядкою, який підходить для смартфонів, планшетів та інших електронних пристроїв. Має функцію швидкої зарядки, три інтегровані кабелі та корпус із прозорими елементами.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативний універсальний павербанк Smart X 10000 mAh (MagSafe, Fast Charge, 3 вбудовані кабелі, чорний)&amp;lt;/b&amp;gt; — це зручний зарядний пристрій із магнітною бездротовою зарядкою, який підходить для смартфонів, планшетів та інших електронних гаджетів. Пристрій обладнаний технологією швидкої зарядки, має три інтегровані кабелі та прозорий корпус.&amp;lt;/p&amp;gt;
+  
   &amp;lt;b&amp;gt;Основні переваги та характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
   &amp;lt;ul&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність 10000 mAh&amp;lt;/b&amp;gt; — забезпечує приблизно дві повні зарядки смартфонів із акумуляторами 4000–4500 mAh (залежно від моделі та умов експлуатації).&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність 10000 mAh&amp;lt;/b&amp;gt; — забезпечує приблизно дві повні зарядки смартфонів із батареєю 4000–4500 mAh, залежно від моделі та умов експлуатації.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Магнітна бездротова зарядка MagSafe&amp;lt;/b&amp;gt; — дозволяє заряджати сумісні пристрої без використання кабелів.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Технологія швидкої зарядки Fast Charge&amp;lt;/b&amp;gt; — значно зменшує час заряджання підтримуваних гаджетів.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Три вбудовані кабелі&amp;lt;/b&amp;gt; — Lightning, USB‑C та USB‑A для підключення без необхідності додаткових проводів.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Чотири різні порти&amp;lt;/b&amp;gt; — USB‑C, USB‑A, microUSB та Apple Lightning для широкої сумісності з різними пристроями.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цифровий індикатор&amp;lt;/b&amp;gt; — відображає поточний рівень заряду павербанка.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Захисні функції&amp;lt;/b&amp;gt; — захист від перепадів температури, перенапруги, перезаряду та глибокого розряду.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Дозволено для використання на борту літака&amp;lt;/b&amp;gt; — відповідає авіаційним вимогам.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактні габарити&amp;lt;/b&amp;gt; — 11 × 6,6 × 21 см.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Технологія Fast Charge&amp;lt;/b&amp;gt; — значно скорочує час заряджання підтримуваних гаджетів.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Три вбудовані кабелі&amp;lt;/b&amp;gt; — Lightning, USB‑C та USB‑A для підключення без додаткових проводів.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Чотири роз’єми&amp;lt;/b&amp;gt; — USB‑C, USB‑A, microUSB та Apple Lightning для максимальної сумісності з різними пристроями.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цифровий дисплей&amp;lt;/b&amp;gt; — відображає поточний рівень заряду павербанка.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Захист&amp;lt;/b&amp;gt; — від перепадів температури, перенапруги, перезаряду та глибокого розряду акумулятора.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Можливість використання в літаках&amp;lt;/b&amp;gt; — відповідає вимогам авіаперевезень.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактні розміри&amp;lt;/b&amp;gt; — 11 × 6,6 × 21 см, що робить пристрій зручним для перенесення.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус&amp;lt;/b&amp;gt; — виготовлений з міцного пластику з прозорими вставками.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан пристрою&amp;lt;/b&amp;gt; — новий.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан&amp;lt;/b&amp;gt; — новий.&amp;lt;/li&amp;gt;
   &amp;lt;/ul&amp;gt;
+  
   &amp;lt;b&amp;gt;Технічні характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
   &amp;lt;ul&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип пристрою:&amp;lt;/b&amp;gt; універсальний павербанк.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип:&amp;lt;/b&amp;gt; універсальний портативний акумулятор.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Акумулятор:&amp;lt;/b&amp;gt; літій-полімерний (Li‑Pol).&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність батареї:&amp;lt;/b&amp;gt; 10000 mAh.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність:&amp;lt;/b&amp;gt; 10000 mAh.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вихідна напруга:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальний вихідний струм:&amp;lt;/b&amp;gt; до 2 А.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вхідна напруга:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальний вхідний струм:&amp;lt;/b&amp;gt; до 2 А.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Кількість одночасно заряджуваних пристроїв:&amp;lt;/b&amp;gt; до 7 (включно з бездротовою зарядкою та усіма портами).&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Порти:&amp;lt;/b&amp;gt; USB‑A, USB‑C, microUSB, Lightning.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Кількість одночасно заряджуваних пристроїв:&amp;lt;/b&amp;gt; до 7 (з урахуванням бездротової зарядки та всіх портів).&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Роз’єми:&amp;lt;/b&amp;gt; USB‑A, USB‑C, microUSB, Lightning.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Матеріал корпусу:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Колір корпусу:&amp;lt;/b&amp;gt; чорний із прозорими елементами.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Колір:&amp;lt;/b&amp;gt; чорний з прозорими елементами.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Розміри:&amp;lt;/b&amp;gt; 110 × 66 × 210 мм.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вага:&amp;lt;/b&amp;gt; 300 г.&amp;lt;/li&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан:&amp;lt;/b&amp;gt; новий.&amp;lt;/li&amp;gt;
   &amp;lt;/ul&amp;gt;
+  
   &amp;lt;b&amp;gt;Комплектація:&amp;lt;/b&amp;gt;
   &amp;lt;ul&amp;gt;
     &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Павербанк Smart X 10000 mAh — 1 одиниця.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
@@ -288,7 +288,7 @@
 2 А (макс).</param>
       <param name="Розміри та вага" paramcode="9856" lang="ua">11 × 6,6 × 21 см
 300 г</param>
-      <param name="Розміри та вага" paramcode="9856" lang="ru">11 × 6,6 × 21 см
+      <param name="Розміри та вага" paramcode="9856" lang="ru">11 × 6,6 × 21 см  
 300 г</param>
       <param name="Комплектація" paramcode="767" lang="ua">Павербанк Smart X 10000 mAh — 1 шт.
 Вбудовані кабелі (Lightning, USB‑C, USB‑A).
