@@ -1,317 +1,1453 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2025-11-15 22:23">
+<yml_catalog date="2025-11-17 15:26">
   <offers>
-    <offer id="b-X105" available="true">
-      <price>1199</price>
-      <price_old>1439</price_old>
-      <category code="2540">Повербанки</category>
-      <attribute_set code="2540">Повербанки</attribute_set>
-      <name lang="ru">Повербанк для телефона Li-Pol 5000 mAh с разъемами USB-C/USB-A с быстрой зарядкой 22,5 Вт Черный (X105)</name>
-      <name lang="ua">Повербанк для телефону Li-Pol 5000 mAh з роз'ємами USB-C/USB-A зі швидкою зарядкою 22,5 Вт Чорний (X105)</name>
-      <picture>https://cdn.27.ua/sc--media--prod/default/e6/a6/31/e6a631e0-8e2b-4922-9e5c-6608b23dd599.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/2e/74/be/2e74be54-1f65-40ce-a184-97f33cfbb987.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/29/a7/34/29a73493-624d-43ea-a10a-34d467059b73.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/b3/77/a6/b377a619-a89b-4e4d-8152-21f7359d0246.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/7d/17/56/7d1756eb-224e-40bc-82fd-4fc7eef5d451.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/b3/b3/95/b3b39520-83b2-4506-8744-48c49fee3c72.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/3f/d7/b5/3fd7b5f9-84da-4e6f-80a8-c7384bd34c7b.png</picture>
-      <description lang="ru">&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативный универсальный пауэрбанк Smart X 20000 mAh (Fast Charge, 4 встроенных кабеля, черный с желтым)&amp;lt;/b&amp;gt; — это компактное и мощное зарядное устройство, предназначенное для смартфонов, планшетов и других электронных гаджетов. Он поддерживает технологию быстрой зарядки и имеет четыре интегрированных кабеля для максимального удобства использования.&amp;lt;/p&amp;gt;
-  
-&amp;lt;b&amp;gt;Основные преимущества и характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Большая емкость — 20000 mAh&amp;lt;/b&amp;gt;, что позволяет заряжать устройства многократно.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Технология Fast Charge&amp;lt;/b&amp;gt; обеспечивает быстрое пополнение заряда.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Четыре встроенных кабеля:&amp;lt;/b&amp;gt; Lightning, USB‑C, Micro USB, USB‑A.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Два USB‑A выходных порта&amp;lt;/b&amp;gt; и &amp;lt;b&amp;gt;один USB‑C входной порт&amp;lt;/b&amp;gt;.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Светодиодные индикаторы&amp;lt;/b&amp;gt; для отображения уровня заряда батареи.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Защита от перепадов температуры, напряжения, перезаряда и глубокого разряда.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Разрешено использовать на борту самолета.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактные габариты:&amp;lt;/b&amp;gt; 15 × 6 × 3 см.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус с прозрачными вставками&amp;lt;/b&amp;gt; и ремешком для удобной переноски.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние устройства — новое.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-  
-&amp;lt;b&amp;gt;Технические характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип устройства:&amp;lt;/b&amp;gt; универсальный пауэрбанк.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Аккумулятор:&amp;lt;/b&amp;gt; литий-полимерный (Li‑Pol).&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость батареи:&amp;lt;/b&amp;gt; 20000 mAh.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Выходное напряжение:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный выходной ток:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Входное напряжение:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный входной ток:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Количество устройств, которые можно заряжать одновременно:&amp;lt;/b&amp;gt; до 6.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Разъемы:&amp;lt;/b&amp;gt; USB‑A (2 шт.), USB‑C (вход).&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Материал корпуса:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цвет корпуса:&amp;lt;/b&amp;gt; черный с желтыми элементами.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вес:&amp;lt;/b&amp;gt; примерно 450 г.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние:&amp;lt;/b&amp;gt; новое.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-  
-&amp;lt;b&amp;gt;Комплектация:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Пауэрбанк Smart X — 1 штука.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Четыре встроенных кабеля разных типов.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ремешок для удобной переноски.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка в виде блистера.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;</description>
+    <offer id="b-8893AB" available="true">
+      <price>899</price>
+      <price_old>1079</price_old>
+      <category code="196">Портативні колонки</category>
+      <attribute_set code="196">Портативні колонки</attribute_set>
+      <name lang="ru">Колонка Pulse 4 mini BT/TF/FM/TWS/AUX/USB с подсветкой 5 Вт Черный</name>
+      <name lang="ua">Колонка Pulse 4 mini BT/TF/FM/TWS/AUX/USB з підсвічуванням 5 Вт Чорний</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/5c/70/71/5c7071a3-4a43-4f29-be3d-3362b8bad45b.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/e4/f8/dd/e4f8ddec-74c4-43b6-8959-9ae9247a85b3.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/74/5a/51/745a51f9-da7a-44aa-aba6-f9d38417db61.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/7b/61/c8/7b61c895-87e3-4a22-a250-8935f5c5a830.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/e1/00/8e/e1008e8a-6417-4905-ba3c-dad096fc342d.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Pulse 4 mini — это компактная портативная колонка, которая выделяется мощным звуком и многофункциональностью. Ее легко взять с собой благодаря небольшим размерам и небольшому весу.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Благодаря поддержке Bluetooth 5.0 устройство быстро подключается к смартфонам, планшетам и другим гаджетам. Кроме этого, можно воспроизводить музыку с TF-карты, USB-накопителя или через AUX-вход. FM-приемник позволяет слушать радиостанции, а функция TWS позволяет соединить две колонки Pulse 4 mini для создания стереозвука.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Во время воспроизведения музыки колонка обеспечивает приятную подсветку, которая добавляет особую атмосферу. Аккумулятора хватает на 4 часа работы, что делает ее удобной для использования на прогулках, пикниках или вечеринках.&amp;lt;/p&amp;gt;</description>
+      <description lang="ua">&amp;lt;p&amp;gt;Pulse 4 mini — це компактна портативна колонка, яка вирізняється потужним звуком та багатофункціональністю. Її легко взяти з собою завдяки невеликим розмірам і невеликій вазі.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Завдяки підтримці Bluetooth 5.0 пристрій швидко підключається до смартфонів, планшетів та інших гаджетів. Окрім цього, можна відтворювати музику з TF-карти, USB-накопичувача або через AUX-вхід. FM-приймач дає змогу слухати радіостанції, а функція TWS дозволяє з’єднати дві колонки Pulse 4 mini для створення стереозвуку.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Під час відтворення музики колонка забезпечує приємне підсвічування, що додає особливої атмосфери. Акумулятора вистачає на 4 години роботи, що робить її зручною для використання на прогулянках, пікніках або вечірках.&amp;lt;/p&amp;gt;</description>
+      <vendor code="afdgdim3tkjgernt">Smart X</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Джерело живлення" paramcode="1022" valuecode="805dd6af3f6eb2046b992d76656aa8f7,0d8f9949d8abd9de23b292a7692c7cf6">акумулятор,вбудований акумулятор</param>
+      <param name="Інтерфейси" paramcode="835" valuecode="5jrqgalwttijpag9,hfopjeii,3lqwancw,p0bq2sma,gbiinqpc,pm2hnhf5yliwcatf,ochkycz9jqntpjor,gaaqxbsd,bl3pran9,hfopjeii,cnfuazdqkuj91kr0">USB Type C,Bluetooth,USB,Lightning,miniUSB,AUX,Bluetooth 5.0,USB Type A,microUSB,Bluetooth,microSD</param>
+      <param name="Бренд" paramcode="brand" valuecode="afdgdim3tkjgernt">Smart X</param>
+      <param name="Тип акустичної системи" paramcode="1414" valuecode="3763545c672e1458f46c510943c5b95d">портативна</param>
+      <param name="Матеріал корпусу" paramcode="106" valuecode="1f2a600b913572cf4252a43ff000721b,cae20eb7b306775054bdd4ac9a507644">ABC-пластик,пластик</param>
+      <param name="Особливості акустики" paramcode="804" valuecode="53b802280474ed28830164f342cbf889,m7jopwq7snfchqmx,lcgeaa5q,2ltabixz,2efa7a9dddb2006e5c9b44447b76c18d,b41a7b46a59dcc6e568ec7b080c63f6c,35,34,28,33,4qvafffk">вбудоване джерело живлення,захист від бризок,бездротове підключення,Bluetooth,вбудований підсилювач,захист від води,живлення від USB-порту,зовнішній підсилювач,регулятор гучності,підсвітка,підтримка Android</param>
+      <param name="Додатково" paramcode="2111" lang="ua">Pulse 4 mini – це портативна колонка, яка поєднує в собі компактність, потужний звук та широкий спектр функцій. Її зручно брати з собою куди завгодно, адже вона не займає багато місця та має легку вагу</param>
+      <param name="Додатково" paramcode="2111" lang="ru">Pulse 4 mini – это портативная колонка, которая сочетает в себе компактность, мощный звук и широкий спектр функций. Её удобно брать с собой куда угодно, так как она не занимает много места и имеет лёгкий вес.</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Портативна колонка Pulse 4 mini BT/TF/FM/TWS/AUX/USB з підсвіткою 5 Вт, чорний</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Портативная колонка Pulse 4 mini BT/TF/FM/TWS/AUX/USB с подсветкой 5 Вт, черный</param>
+      <param name="Базовий колір" paramcode="9640" valuecode="24050">чорний</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Глибина упаковки" paramcode="length">100.0</param>
+      <param name="Висота упаковки" paramcode="height">260.0</param>
+      <param name="Ширина упаковки" paramcode="width">100.0</param>
+      <param name="Вага упаковки" paramcode="weight">1900.0</param>
+    </offer>
+    <offer id="b-8893AW" available="true">
+      <price>899</price>
+      <price_old>1079</price_old>
+      <category code="196">Портативні колонки</category>
+      <attribute_set code="196">Портативні колонки</attribute_set>
+      <name lang="ru">Колонка Pulse 4 mini BT/TF/FM/TWS/AUX/USB с подсветкой 5 Вт</name>
+      <name lang="ua">Колонка Pulse 4 mini BT/TF/FM/TWS/AUX/USB з підсвічуванням 5 Вт</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/a8/9d/d4/a89dd4f0-78b6-42c2-bc73-a93b352430b4.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/f4/69/01/f46901f8-b5a5-43e2-b14e-b3fc325d9b1d.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/0a/c2/fc/0ac2fcb7-3823-43eb-bda3-6643ac7d0061.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/a2/7d/f3/a27df3cd-d28e-470f-8a88-f52bbcb858c0.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/e1/00/8e/e1008e8a-6417-4905-ba3c-dad096fc342d.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Pulse 4 mini — это компактная портативная колонка, которая сочетает удобство в использовании, качественный звук и широкий набор функций. Она имеет небольшие размеры и легкий вес, что позволяет легко брать её с собой в любое место.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Благодаря поддержке Bluetooth 5.0, устройство быстро и без проблем подключается к смартфонам, планшетам и другим гаджетам. Кроме того, колонка поддерживает воспроизведение музыки с TF-карт, USB-накопителей, а также через AUX-вход. Встроенный FM-приёмник позволяет слушать радио, а функция TWS позволяет объединить две колонки Pulse 4 mini для создания стереозвука.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Во время воспроизведения музыки колонка обеспечивает приятную подсветку, которая помогает создать уютную атмосферу. Устройство работает до 4 часов без подзарядки, что делает его удобным выбором для пикников, походов или вечеринок.&amp;lt;/p&amp;gt;</description>
+      <description lang="ua">&amp;lt;p&amp;gt;Pulse 4 mini — це компактна портативна колонка, що поєднує зручність у використанні, якісний звук і широкий набір функцій. Вона має невеликі розміри та легку вагу, що дозволяє легко брати її з собою в будь-яке місце.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Завдяки підтримці Bluetooth 5.0, пристрій швидко і без проблем підключається до смартфонів, планшетів та інших гаджетів. Крім того, колонка підтримує відтворення музики з TF-карт, USB-накопичувачів, а також через AUX-вхід. Вбудований FM-приймач дає змогу слухати радіо, а функція TWS дозволяє об’єднати дві колонки Pulse 4 mini для створення стереозвуку.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Під час відтворення музики колонка забезпечує приємне підсвічування, яке допомагає створити затишну атмосферу. Пристрій працює до 4 годин без підзарядки, що робить його зручним вибором для пікніків, походів або вечірок.&amp;lt;/p&amp;gt;</description>
+      <vendor code="afdgdim3tkjgernt">Smart X</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Джерело живлення" paramcode="1022" valuecode="805dd6af3f6eb2046b992d76656aa8f7,0d8f9949d8abd9de23b292a7692c7cf6">акумулятор,вбудований акумулятор</param>
+      <param name="Інтерфейси" paramcode="835" valuecode="5jrqgalwttijpag9,hfopjeii,3lqwancw,p0bq2sma,gbiinqpc,pm2hnhf5yliwcatf,ochkycz9jqntpjor,gaaqxbsd,bl3pran9,hfopjeii,cnfuazdqkuj91kr0">USB Type C,Bluetooth,USB,Lightning,miniUSB,AUX,Bluetooth 5.0,USB Type A,microUSB,Bluetooth,microSD</param>
+      <param name="Бренд" paramcode="brand" valuecode="afdgdim3tkjgernt">Smart X</param>
+      <param name="Тип акустичної системи" paramcode="1414" valuecode="3763545c672e1458f46c510943c5b95d">портативна</param>
+      <param name="Матеріал корпусу" paramcode="106" valuecode="1f2a600b913572cf4252a43ff000721b,cae20eb7b306775054bdd4ac9a507644">ABC-пластик,пластик</param>
+      <param name="Особливості акустики" paramcode="804" valuecode="53b802280474ed28830164f342cbf889,m7jopwq7snfchqmx,lcgeaa5q,2ltabixz,2efa7a9dddb2006e5c9b44447b76c18d,b41a7b46a59dcc6e568ec7b080c63f6c,35,34,28,33,4qvafffk">вбудоване джерело живлення,захист від бризок,бездротове підключення,Bluetooth,вбудований підсилювач,захист від води,живлення від USB-порту,зовнішній підсилювач,регулятор гучності,підсвітка,підтримка Android</param>
+      <param name="Додатково" paramcode="2111" lang="ua">Pulse 4 mini – це портативна колонка, яка поєднує в собі компактність, потужний звук та широкий спектр функцій. Її зручно брати з собою куди завгодно, адже вона не займає багато місця та має легку вагу</param>
+      <param name="Додатково" paramcode="2111" lang="ru">Pulse 4 mini – это портативная колонка, которая сочетает в себе компактность, мощный звук и широкий спектр функций. Её удобно брать с собой куда угодно, так как она не занимает много места и имеет лёгкий вес.</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Портативна колонка Pulse 4 mini BT/TF/FM/TWS/AUX/USB з підсвіткою 5 Вт, білий</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Портативная колонка Pulse 4 mini BT/TF/FM/TWS/AUX/USB с подсветкой 5 Вт, белая</param>
+      <param name="Базовий колір" paramcode="9640" valuecode="24051">білий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+      <param name="Глибина упаковки" paramcode="length">100.0</param>
+      <param name="Висота упаковки" paramcode="height">260.0</param>
+      <param name="Ширина упаковки" paramcode="width">100.0</param>
+      <param name="Вага упаковки" paramcode="weight">1900.0</param>
+    </offer>
+    <offer id="b-D6BR" available="true">
+      <price>3599</price>
+      <price_old>4319</price_old>
+      <category code="196">Портативні колонки</category>
+      <attribute_set code="196">Портативні колонки</attribute_set>
+      <name lang="ru">Колонка OneDer D6 BT/TF/USB/AUX 40 Вт Коричневый</name>
+      <name lang="ua">Колонка OneDer D6 BT/TF/USB/AUX 40 Вт Коричневий</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/93/88/39/93883924-2a18-45f5-9043-a720e1d034b3.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/c6/9d/a5/c69da546-b8e8-4d90-9a71-90014400b5ff.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/07/52/a8/0752a892-6d0c-420d-9783-7d1c55a55de3.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/be/e2/a7/bee2a7cc-a543-49ec-81fb-9085917feb72.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/d9/91/73/d991734f-3c00-47aa-b3a9-6330462aa7e6.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/72/3c/59/723c593c-661f-403b-be4a-68e9c607d94c.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/7f/2e/2b/7f2e2b86-fa86-452c-acf8-abe687c88dbb.png</picture>
+      <description lang="ru">&amp;lt;div&amp;gt;
+  &amp;lt;p&amp;gt;Портативная колонка OnDer D6 имеет мощность 40 Вт и прекрасно подходит как для домашнего использования, так и для путешествий. Она выполнена в стильном ретро-стиле, что придаёт ей элегантный вид.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;Устройство оснащено Bluetooth 5.0, который обеспечивает беспроводное подключение к смартфонам, планшетам и другим гаджетам для воспроизведения музыки. Также предусмотрены слоты для карт TF, USB-порт и AUX-вход, которые позволяют слушать аудио с разных источников.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;Кроме того, колонка OnDer D6 имеет встроенный микрофон, что делает её удобной для использования как громкоговоритель. Светодиодный индикатор информирует о состоянии батареи и подключении. Звуковые характеристики включают громкий и чистый звук, а дизайн привлекает своей изысканностью.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технические характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;table&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Цвет&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Коричневый&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Материал корпуса&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Пластик&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Вес&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2.3 кг&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Мощность&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;40 Вт&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Частотный диапазон&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;80 Гц - 20 кГц&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Соотношение сигнал/шум&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;≥ 75 дБ&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Встроенный аккумулятор&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;5000 мАг&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Время работы&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;4-6 часов&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Время зарядки&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;4-5 часов&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/table&amp;gt;
+&amp;lt;/div&amp;gt;</description>
       <description lang="ua">&amp;lt;div&amp;gt;
-  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативний універсальний павербанк Smart X 20000 mAh (Fast Charge, 4 вбудовані кабелі, чорний з жовтим)&amp;lt;/b&amp;gt; — це компактний та потужний зарядний пристрій, призначений для смартфонів, планшетів та інших електронних гаджетів. Він підтримує технологію швидкої зарядки і має чотири інтегровані кабелі для максимальної зручності користування.&amp;lt;/p&amp;gt;
-  
-  &amp;lt;b&amp;gt;Основні переваги та характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
-  &amp;lt;ul&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Велика ємність — 20000 mAh&amp;lt;/b&amp;gt;, що дозволяє заряджати пристрої багаторазово.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Технологія Fast Charge&amp;lt;/b&amp;gt; забезпечує швидке поповнення заряду.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Чотири вбудовані кабелі:&amp;lt;/b&amp;gt; Lightning, USB‑C, Micro USB, USB‑A.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Два USB‑A вихідні порти&amp;lt;/b&amp;gt; та &amp;lt;b&amp;gt;один USB‑C вхідний порт&amp;lt;/b&amp;gt;.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Світлодіодні індикатори&amp;lt;/b&amp;gt; для відображення рівня заряду батареї.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Захист від перепадів температури, напруги, перезаряду і глибокого розряду.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Дозволено використовувати на борту літака.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактні габарити:&amp;lt;/b&amp;gt; 15 × 6 × 3 см.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус із прозорими вставками&amp;lt;/b&amp;gt; та ремінцем для зручного перенесення.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан пристрою — новий.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-  &amp;lt;/ul&amp;gt;
-  
-  &amp;lt;b&amp;gt;Технічні характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
-  &amp;lt;ul&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип пристрою:&amp;lt;/b&amp;gt; універсальний павербанк.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Акумулятор:&amp;lt;/b&amp;gt; літій-полімерний (Li‑Pol).&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність батареї:&amp;lt;/b&amp;gt; 20000 mAh.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вихідна напруга:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальний вихідний струм:&amp;lt;/b&amp;gt; 2.1 А.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вхідна напруга:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;
-      &amp;lt;b&amp;gt;Максимальний вхідний струм:&amp;lt;/b&amp;gt; 2.1 А.
-    &amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Кількість пристроїв, що можна заряджати одночасно:&amp;lt;/b&amp;gt; до 6.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Роз’єми:&amp;lt;/b&amp;gt; USB‑A (2 шт.), USB‑C (вхід).&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Матеріал корпусу:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Колір корпусу:&amp;lt;/b&amp;gt; чорний із жовтими елементами.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вага:&amp;lt;/b&amp;gt; приблизно 450 г.&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан:&amp;lt;/b&amp;gt; новий.&amp;lt;/li&amp;gt;
-  &amp;lt;/ul&amp;gt;
-  
-  &amp;lt;b&amp;gt;Комплектація:&amp;lt;/b&amp;gt;
-  &amp;lt;ul&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Павербанк Smart X — 1 одиниця.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Чотири вбудовані кабелі різних типів.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ремінець для зручного перенесення.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка у вигляді блістера.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-  &amp;lt;/ul&amp;gt;
+  &amp;lt;p&amp;gt;Портативна колонка OnDer D6 має потужність 40 Вт і прекрасно підходить як для домашнього використання, так і для подорожей. Вона виконана в стильному ретро-стилі, що надає їй елегантного вигляду.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;Пристрій оснащений Bluetooth 5.0, що забезпечує бездротове підключення до смартфонів, планшетів та інших гаджетів для відтворення музики. Також передбачені слоти для карт TF, USB-порт і AUX-вхід, які дозволяють слухати аудіо з різних джерел.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;Крім того, колонка OnDer D6 має вбудований мікрофон, що робить її зручною для використання як гучномовець. Світлодіодний індикатор інформує про стан батареї та підключення. Звукові характеристики включають гучний і чистий звук, а дизайн приваблює своєю вишуканістю.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технічні характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;table&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Колір&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Коричневий&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Матеріал корпусу&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Пластик&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Вага&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;2.3 кг&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Потужність&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;40 Вт&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Частотний діапазон&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;80 Гц - 20 кГц&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Співвідношення сигнал/шум&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;≥ 75 дБ&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Вбудований акумулятор&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;5000 мАг&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Час роботи&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;4-6 годин&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Час зарядки&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;4-5 годин&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/table&amp;gt;
 &amp;lt;/div&amp;gt;</description>
       <vendor code="afdgdim3tkjgernt">Smart X</vendor>
       <country_of_origin code="aut">Австрія</country_of_origin>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Ємність" paramcode="9519" valuecode="415d11a5ab4059b3a710455de2cdf23c">5000 мА·год</param>
-      <param name="Ємність" paramcode="5490">5000</param>
-      <param name="Гарантія" paramcode="113">0.5</param>
-      <param name="Тип батареї" paramcode="1002" valuecode="a0ce5e68119572250ac002148f9cff7c">Li-pol</param>
-      <param name="Підходить для" paramcode="1111" valuecode="1ac859d926a7d29e0e2a968ea16e71ea,3001e341787630d682b5924959924a37,c75b94c59293410eb71b0160a82bdca4,cad17dc8a1b1bc293db551515babbcca,3f77094672d7f3c11a58cda5b7b2ff0d,b7d0f7210a8328aa11f5e2f4b7889a07,49c3b2239cddf33f6974f8a93c5c4100,6c0220cbb5824cdc5b25f98c4fd2bd65,5e77d5c131c007bbf68cf8d14c488c1d,4134b3dc4c5041e9f30bc21b72125847">смарт-годинників,електронної книги,MP3,телефона,айфона,роутера,планшета,фотоапарата,смартфона,універсального зарядного пристрою</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Джерело живлення" paramcode="1022" valuecode="805dd6af3f6eb2046b992d76656aa8f7,0d8f9949d8abd9de23b292a7692c7cf6">акумулятор,вбудований акумулятор</param>
+      <param name="Інтерфейси" paramcode="835" valuecode="5jrqgalwttijpag9,hfopjeii,3lqwancw,p0bq2sma,gbiinqpc,pm2hnhf5yliwcatf,ochkycz9jqntpjor,gaaqxbsd,bl3pran9,hfopjeii,cnfuazdqkuj91kr0">USB Type C,Bluetooth,USB,Lightning,miniUSB,AUX,Bluetooth 5.0,USB Type A,microUSB,Bluetooth,microSD</param>
       <param name="Бренд" paramcode="brand" valuecode="afdgdim3tkjgernt">Smart X</param>
-      <param name="Кількість портів USB" paramcode="9610" valuecode="d9c7b7227eaadc884f728b73bdf200a0">2</param>
-      <param name="Час зарядки" paramcode="5450">6</param>
-      <param name="Матеріал корпусу" paramcode="4236" valuecode="15c364fd7a68e2596f314448f2b4175c">пластик</param>
-      <param name="Додаткові характеристики" paramcode="2771" lang="ua">Ємність: 5000 mAh.
-Максимальна вихідна потужність: 22.5 Вт.
-Вихідна напруга: 5 В.
-Вихідний струм: до 1,5 А.
-Вхідна напруга: 5 В.
-Вхідний струм: до 2 А.
-Кількість одночасно заряджуваних пристроїв: 2.
-Роз’єми: USB‑A, USB‑C (вхід/вихід).</param>
-      <param name="Додаткові характеристики" paramcode="2771" lang="ru">Емкость: 5000 мАч.
-Максимальная выходная мощность: 22,5 Вт.
-Выходное напряжение: 5 В.
-Выходной ток: до 1,5 А.
-Входное напряжение: 5 В.
-Входной ток: до 2 А.
-Количество одновременно заряжаемых устройств: 2.
-Разъёмы: USB‑A, USB‑C (вход/выход).</param>
-      <param name="Потужність" paramcode="3072" valuecode="5963c2691c08d62521a753ecba10f767">5 Вт</param>
-      <param name="Вихідний струм та напруга" paramcode="11208" lang="ua">5 В.
-1.5 А (макс).</param>
-      <param name="Вихідний струм та напруга" paramcode="11208" lang="ru">5 В.
-1,5 А (макс).</param>
-      <param name="Вхідний струм та напруга" paramcode="11211" lang="ua">5 В.
-2 А (макс).</param>
-      <param name="Вхідний струм та напруга" paramcode="11211" lang="ru">5 В.
-2 А (макс).</param>
-      <param name="Особливості" paramcode="9518" valuecode="143e8321e0508e94f28e96e6fd52bfbf,6736b1cca28b6899fd0dcea51aac310c,e097b01e0bbb012495b2a5871aa1e4ea,27f693ae3aabec20fa9b67aee30b7ed9,05b5455b2508a944add3b1be75538175,526a7721639c225e04be4164672ca19e,af90e4ea917dcdd1852e1e72a8ada1a2,bde6fd92f304ba2b8aa1a2c48277b9d4,868b32fe17b967a42b047b35d1e998c3,bf6bcba0d52192ef368e311f975632c2,e4da2fccabe0bf3f40e7507f34bdfb91,7dbc8deb0f3be3e05ff0e20c502913f2">технологія швидкої зарядки,LED-індикатор рівня залишкового заряду,технологія Fast Charge,багаторівнева система захисту для всіх пристроїв,екран,пилозахищений корпус,LED-індикатори,захист від перезаряджання,захист від надмірного розрядження,ударостійкий корпус,захист від короткого замикання,захист від перегріву</param>
-      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розміри та вага" paramcode="9856" lang="ua">9.5х6х1.5 см
-160 г</param>
-      <param name="Розміри та вага" paramcode="9856" lang="ru">9,5х6х1,5 см  
-160 г</param>
-      <param name="Комплектація" paramcode="767" lang="ua">Павербанк Smart X 5000 mAh — 1 шт.
-Упаковка (блістер).</param>
-      <param name="Комплектація" paramcode="767" lang="ru">Повербанк Smart X 5000 мАч — 1 шт.
-Упаковка (блистер).</param>
-      <param name="Перехідник у комплекті" paramcode="5639" valuecode="5f0a491d3441dd17bddf8e823342c328,ecc5382bb1953dc40b163cb1110b98b1,8599592080a6661465f15c0ed177ecba">microUSB,Apple Lightning,USB type-C</param>
-      <param name="Глибина упаковки" paramcode="length">40.0</param>
-      <param name="Висота упаковки" paramcode="height">150.0</param>
-      <param name="Ширина упаковки" paramcode="width">75.0</param>
+      <param name="Тип акустичної системи" paramcode="1414" valuecode="3763545c672e1458f46c510943c5b95d">портативна</param>
+      <param name="Матеріал корпусу" paramcode="106" valuecode="1f2a600b913572cf4252a43ff000721b,cae20eb7b306775054bdd4ac9a507644">ABC-пластик,пластик</param>
+      <param name="Особливості акустики" paramcode="804" valuecode="53b802280474ed28830164f342cbf889,m7jopwq7snfchqmx,lcgeaa5q,2ltabixz,2efa7a9dddb2006e5c9b44447b76c18d,b41a7b46a59dcc6e568ec7b080c63f6c,35,34,28,33,4qvafffk">вбудоване джерело живлення,захист від бризок,бездротове підключення,Bluetooth,вбудований підсилювач,захист від води,живлення від USB-порту,зовнішній підсилювач,регулятор гучності,підсвітка,підтримка Android</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Портативна колонка OneDer D6 BT/TF/USB/AUX 40 Вт, коричневий</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Портативная колонка OneDer D6 BT/TF/USB/AUX 40 Вт, коричневый</param>
+      <param name="Базовий колір" paramcode="9640" valuecode="24053">коричневий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+      <param name="Глибина упаковки" paramcode="length">100.0</param>
+      <param name="Висота упаковки" paramcode="height">260.0</param>
+      <param name="Ширина упаковки" paramcode="width">100.0</param>
+      <param name="Вага упаковки" paramcode="weight">1900.0</param>
+    </offer>
+    <offer id="b-PULSE5W" available="true">
+      <price>1339</price>
+      <price_old>1607</price_old>
+      <category code="196">Портативні колонки</category>
+      <attribute_set code="196">Портативні колонки</attribute_set>
+      <name lang="ru">Колонка Pulse 5 BT/TF/FM/AUX/USB с подсветкой 8 Вт Белый</name>
+      <name lang="ua">Колонка Pulse 5 BT/TF/FM/AUX/USB з підсвічуванням 8 Вт Білий</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/5d/e9/60/5de96005-6d45-4125-93ca-e0e2fb25f3c0.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/6a/e7/5d/6ae75d45-1f6c-4b31-b340-2ed5d12ecf5c.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/30/96/59/30965923-8508-407a-b9ed-e7fd1c7525c4.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/d4/27/f3/d427f30a-6a0a-44e2-bd27-4ba7db507ad5.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/85/58/f7/8558f765-af2d-44c9-9a59-f1947e0731fc.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/95/f8/59/95f8592d-80a0-4733-9438-86e824e851f8.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/c1/10/a6/c110a6e4-b063-4dc1-8dac-c2504a4178df.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Bluetooth-колонка Pulse 5 станет отличным выбором для тех, кто ценит не только качественный звук, но и хочет украсить атмосферу яркими световыми эффектами. Устройство легко подключается к смартфонам, ноутбукам и другим гаджетам через Bluetooth 5.0 и имеет динамическую подсветку, которая реагирует на ритм музыки, создавая неповторимое настроение.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Эта портативная акустика оснащена аккумулятором емкостью 2000 мА·ч, который обеспечивает до 4 часов непрерывного воспроизведения звука. Зарядка осуществляется через стандартный microUSB-порт, что позволяет подключать колонку к сети, компьютеру или пауэрбанку. Благодаря современной версии Bluetooth энергопотребление минимальное, а радиус действия достигает 15 метров.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Корпус колонки изготовлен из ABS-пластика и имеет оптимальный уровень защиты от влаги, что позволяет использовать устройство во время отдыха, спортивных занятий или прогулок на свежем воздухе.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Устройство поддерживает воспроизведение с Micro SD-карт, оснащено FM-приемником, встроенным микрофоном и двумя динамиками мощностью 8 Вт. В комплекте идут USB-кабель, AUX-кабель и инструкция пользователя.&amp;lt;/p&amp;gt;</description>
+      <description lang="ua">&amp;lt;p&amp;gt;Bluetooth-колонка Pulse 5 стане чудовим вибором для тих, хто цінує не лише якісний звук, а й хоче прикрасити атмосферу яскравими світловими ефектами. Пристрій легко підключається до смартфонів, ноутбуків та інших гаджетів через Bluetooth 5.0 і має динамічне підсвічування, яке реагує на ритм музики, створюючи неповторний настрій.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Ця портативна акустика обладнана акумулятором ємністю 2000 мА·год, що забезпечує до 4 годин безперервного відтворення звуку. Зарядка здійснюється через стандартний microUSB-порт, що дає змогу підключати колонку до мережі, комп’ютера або павербанка. Завдяки сучасній версії Bluetooth енергоспоживання мінімальне, а радіус дії сягає 15 метрів.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Корпус колонки виготовлений з ABS-пластику та має оптимальний рівень захисту від вологи, що дозволяє використовувати пристрій під час відпочинку, спортивних занять або прогулянок на свіжому повітрі.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Пристрій підтримує відтворення з Micro SD-карт, оснащений FM-приймачем, вбудованим мікрофоном і двома динаміками потужністю 8 Вт. У комплекті йдуть USB-кабель, AUX-кабель та інструкція користувача.&amp;lt;/p&amp;gt;</description>
+      <vendor code="afdgdim3tkjgernt">Smart X</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Джерело живлення" paramcode="1022" valuecode="805dd6af3f6eb2046b992d76656aa8f7,0d8f9949d8abd9de23b292a7692c7cf6">акумулятор,вбудований акумулятор</param>
+      <param name="Інтерфейси" paramcode="835" valuecode="5jrqgalwttijpag9,hfopjeii,3lqwancw,p0bq2sma,gbiinqpc,pm2hnhf5yliwcatf,ochkycz9jqntpjor,gaaqxbsd,bl3pran9,hfopjeii,cnfuazdqkuj91kr0">USB Type C,Bluetooth,USB,Lightning,miniUSB,AUX,Bluetooth 5.0,USB Type A,microUSB,Bluetooth,microSD</param>
+      <param name="Бренд" paramcode="brand" valuecode="afdgdim3tkjgernt">Smart X</param>
+      <param name="Тип акустичної системи" paramcode="1414" valuecode="3763545c672e1458f46c510943c5b95d">портативна</param>
+      <param name="Матеріал корпусу" paramcode="106" valuecode="1f2a600b913572cf4252a43ff000721b,cae20eb7b306775054bdd4ac9a507644">ABC-пластик,пластик</param>
+      <param name="Особливості акустики" paramcode="804" valuecode="53b802280474ed28830164f342cbf889,m7jopwq7snfchqmx,lcgeaa5q,mf4hqugjodbjwdy7,2ltabixz,2efa7a9dddb2006e5c9b44447b76c18d,b41a7b46a59dcc6e568ec7b080c63f6c,35,34,28,33,4qvafffk,oteey9so">вбудоване джерело живлення,захист від бризок,бездротове підключення,LED-дисплей,Bluetooth,вбудований підсилювач,захист від води,живлення від USB-порту,зовнішній підсилювач,регулятор гучності,підсвітка,підтримка Android,FM-радіо</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Портативна колонка Pulse 5 BT/TF/FM/AUX/USB з підсвіткою 8 Вт, білий</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Портативная колонка Pulse 5 BT/TF/FM/AUX/USB с подсветкой 8 Вт, белая</param>
+      <param name="Базовий колір" paramcode="9640" valuecode="24051">білий</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+      <param name="Глибина упаковки" paramcode="length">100.0</param>
+      <param name="Висота упаковки" paramcode="height">260.0</param>
+      <param name="Ширина упаковки" paramcode="width">100.0</param>
+      <param name="Вага упаковки" paramcode="weight">1900.0</param>
+    </offer>
+    <offer id="b-HP176094" available="true">
+      <price>1699</price>
+      <price_old>2039</price_old>
+      <category code="186">Проєктори</category>
+      <attribute_set code="186">Проєктори</attribute_set>
+      <name lang="ru">Проектор для дома и офиса HD Led с динамиком</name>
+      <name lang="ua">Проектор для дому та офісу HD Led з динаміком</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/88/0c/45/880c4576-a23f-4c10-8ac9-15741c91391c.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/73/a1/97/73a19765-fa27-42a4-bd98-95122ff8a16f.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Этот современный проектор с LCD-экраном демонстрирует качественное изображение с разрешением 1920x1080 пикселей. Он поддерживает форматы входного видеосигнала 480p, 720p, 1080p и 576p, что делает его универсальным устройством для воспроизведения разнообразного контента. Соотношение сторон 16:9 обеспечивает полноценное погружение в фильмы и игры.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Устройство оснащено портами USB, HDMI, аналоговым видеовходом и разъемом jack 3.5 мм, что открывает широкие возможности для подключения различных гаджетов. Корпус изготовлен из прочного пластика, который сочетает долговечность с современным дизайном. Встроенные динамики позволяют получать качественный звук без необходимости дополнительных аудиоустройств.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Проектор использует LED-лампу мощностью 24 Вт, что обеспечивает яркое и насыщенное изображение. Уровень шума во время работы не превышает 50 дБ, что делает его достаточно тихим. Контрастность на уровне 800 способствует четкому воспроизведению деталей. Это устройство идеально подходит для домашнего кинотеатра или проведения презентаций, создавая комфортные условия для просмотра.&amp;lt;/p&amp;gt;</description>
+      <description lang="ua">&amp;lt;p&amp;gt;Цей сучасний проектор з LCD-екраном демонструє якісне зображення з роздільною здатністю 1920x1080 пікселів. Він підтримує формати вхідного відеосигналу 480p, 720p, 1080p та 576p, що робить його універсальним пристроєм для відтворення різноманітного контенту. Співвідношення сторін 16:9 забезпечує повноцінне занурення у фільми та ігри.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Пристрій обладнаний портами USB, HDMI, аналоговим відеовходом і роз'ємом jack 3.5 мм, що відкриває широкі можливості для підключення різних гаджетів. Корпус виготовлений із міцного пластику, який поєднує довговічність із сучасним дизайном. Вбудовані динаміки дозволяють отримувати якісний звук без необхідності додаткових аудіопристроїв.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Проектор використовує LED-лампу потужністю 24 Вт, що забезпечує яскраве та насичене зображення. Рівень шуму під час роботи не перевищує 50 дБ, що робить його досить тихим. Контрастність на рівні 800 сприяє чіткому відтворенню деталей. Цей пристрій ідеально підходить для домашнього кінотеатру або проведення презентацій, створюючи комфортні умови для перегляду.&amp;lt;/p&amp;gt;</description>
+      <vendor code="afdgdim3tkjgernt">Smart X</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Роздільна здатність матриці" paramcode="12342" valuecode="6264bcf087e5728012598d51feef82a7">1920 x 1080</param>
+      <param name="Призначення проектора" paramcode="1807" valuecode="91de911e8ca88b61177a0dfa7645ef3d,01fa75a53a24e4240db3ac6a87ca391b,bb27ffc748f11d453badb5962e6acdae,182d672e84a4af56d8508fd439cf9fd3,0a9fb6e7d74546b7d78c89db13ba5d34,937e739036f7f93763c24c8c68ffdfad,d752b77f179f7ecd0ed32e7b8525517a">для домашнього кінотеатру,універсальний,для бізнесу,геймерський,портативний,офісний,для навчання</param>
+      <param name="Клас проектора" paramcode="1797" valuecode="e68d50f5a07d520da57dbae4221349b4">портативний</param>
+      <param name="Лампа" paramcode="1799" valuecode="f76dc44ef23512e0ec66c827e49d5ffc,125d4c8a4718cba44326721c37b9c9aa">Laser-LED,LED</param>
+      <param name="Підтримка форматів" paramcode="12356" valuecode="0a7bb5790f712f60fa660a8531680d16">16:9</param>
+      <param name="Бренд" paramcode="brand" valuecode="afdgdim3tkjgernt">Smart X</param>
+      <param name="Тип матриці" paramcode="12341" valuecode="45b49d94e02f60e6d2270d8ca6955b1d">LCD</param>
+      <param name="Яскравість" paramcode="12343" valuecode="fcfcb04068ba268196cb40b49448c8d9">від 2500 до 4000 (ANSI lm)</param>
+      <param name="Яскравість" paramcode="12353">2500</param>
+      <param name="Контрастність" paramcode="12354" lang="ua">до 1000:1</param>
+      <param name="Контрастність" paramcode="12354" lang="ru">до 1000:1</param>
+      <param name="Контрастність" paramcode="12344" valuecode="1b5a8571f9346c9040f0fb91aa08927b">до 1000:1</param>
+      <param name="Співвідношення сторін" paramcode="1757" valuecode="c7863da301f8da2aa892ddeff6b63c9a">широкоформатне (16:9)</param>
+      <param name="Проекційне співвідношення" paramcode="2913" lang="ua">короткофокусні</param>
+      <param name="Проекційне співвідношення" paramcode="2913" lang="ru">короткофокусные</param>
+      <param name="Проекційне співвідношення" paramcode="12350" valuecode="2048c0fbc73b3b8d0f9b7575f1b716f2">короткофокусні</param>
+      <param name="Додаткові можливості" paramcode="12351" valuecode="158e4c0766a031a8fbfb63f2073849d6,e3f2fe17d2c7b5116ac763456629c633,54934baa3b344087be8fc768e14e086c,90dc2833275b462b7bc6fab58fd3e7e0,b099e34e2196309c1f9f9b398789d1c5,50f1c77db70b47505db8f8f9f2df9ecd">автоматичне калібрування інтерактивної функції,HDR,швидке увімкнення,перегляд зображень із USB-накопичувачів,пришвидшений запуск презентації,керування джерелом введення</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ophru6z8,ji7xemhv">білий,жовтий</param>
+      <param name="Операційна система" paramcode="6118" valuecode="6e98ff81a745c91fd6941738a2a7a155">без ОС</param>
+      <param name="Бездротові можливості" paramcode="851" valuecode="7863071fa9e08d505d345d8959e1ad38">802.11ac</param>
+      <param name="Інтерфейси" paramcode="11905" valuecode="3da88c31b89f465085827212d095803a,f27be6e0f99e90c9d5d46baf6bf92a6f,ce80491bc2f6a022e540866a71360662,6cc08fd71e58eaa04c5fbeafe6b9f147,df75dd6119033845859bcd7888baac7f,4a36a3af418720e220be8dd12ef5ea70,d60b039762cb66ce0104278c6c2acefb,2b0c8cbd563337786fa5fae735c2eea9,1532d27f60596b91385eb6753606ddfd,025b1651ba504625d32dfa045a1df68d,48910931db428b7beb4d06ecc37372fc,ff2cfe0653d272a621dd36b07acf4e98,8b3c5152c0ecd6fa0d613a31191dc974,7766dcfb2eb1aedeed371a081cc5c676,6dd423d7cc3386d42c60cef7ee1c4b72">micro HDMI,2 x HDMI 2.0,microUSB,microSD,аудіовихід,2 x HDMI вихід,USB (type A) - для підключення зовнішніх пристроїв,1 x mini-Jack (3.5 мм),2 x HDMI,3 x HDMI,HDMI,USB,1 x HDMI,2 x mini D-Sub,USB (type B) - для підключення до ПК</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Портативний проектор для дому та офісу HD Led з динаміком</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Портативный проектор для дома и офиса HD Led с динамиком</param>
+      <param name="Глибина упаковки" paramcode="length">100.0</param>
+      <param name="Висота упаковки" paramcode="height">260.0</param>
+      <param name="Ширина упаковки" paramcode="width">200.0</param>
+      <param name="Вага упаковки" paramcode="weight">2.0</param>
+    </offer>
+    <offer id="b-SAP2L" available="true">
+      <price>1149</price>
+      <price_old>1379</price_old>
+      <category code="197">Навушники</category>
+      <attribute_set code="197">Навушники</attribute_set>
+      <name lang="ru">Наушники SmartX Bluetooth Pro 2 Luxury вакуумные Белый</name>
+      <name lang="ua">Навушники SmartX Bluetooth Pro 2 Luxury вакуумні Білий</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/1e/ef/65/1eef6537-a6f5-4f27-a3ca-31e1fc05cc3f.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/ac/14/cc/ac14cc8e-74f1-402a-8c72-11855fcaaede.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/d8/29/ec/d829ec74-7fec-4643-9700-f2adfb539ca5.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/1e/3d/f6/1e3df65e-364b-4230-bd22-29b3f8655e80.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/81/6c/5b/816c5b7e-bf0c-42ed-9777-2fec28fcaf3f.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/ae/49/d0/ae49d065-6cd2-406a-a06c-865fd94ce2dd.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/df/fe/ce/dffece6f-9e5f-491d-a137-b3345e945d11.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/6e/e6/86/6ee68657-309e-49c7-bce9-b0eb527ec51e.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/c7/55/58/c75558e9-af09-45bf-939a-25e6038e45da.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/01/c3/d7/01c3d745-c3d7-4b7d-a7a2-bbc1e60c06ee.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Беспроводные вакуумные Bluetooth-наушники SmartX Pro 2 Luxury сочетают в себе высокое качество звука и комфорт при использовании, даря чистое и насыщенное звучание.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Модель SmartX Pro 2 Luxury является обновленной премиум-версией наушников, доступной по доступной цене. Они впечатляют не только аудио характеристиками, но и современным дизайном.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Главные преимущества:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Чип JL.&amp;lt;/b&amp;gt; Встроенный чип JL обеспечивает быстрое и стабильное подключение к различным устройствам на базе Windows, iOS, Mac OS, Android и других платформ.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Гравировка.&amp;lt;/b&amp;gt; Каждый элемент наушников украшен уникальной гравировкой.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Акустика Qualcomm.&amp;lt;/b&amp;gt; Использование высококачественных компонентов Qualcomm гарантирует чистое звучание с глубокими басами без шумов и искажений.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Шумоподавление 70%.&amp;lt;/b&amp;gt; Наушники обеспечивают эффективное приглушение внешних шумов, что позволяет полностью погрузиться в музыку.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Функциональные возможности.&amp;lt;/b&amp;gt; Устройство поддерживает беспроводную зарядку, оснащено сенсорным управлением, функцией автоматического определения присутствия в ухе, а также совместимо с голосовыми помощниками Siri и Google Assistant.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технические характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;table&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Тип&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;Вакуумные&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Подключение&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;Bluetooth 5.0&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Дальность действия&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;До 10 м&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Время работы без подзарядки&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;До 5 часов (до 30 часов с кейсом)&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Время зарядки&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;1 час&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Емкость аккумулятора&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;40 мАч (наушники) / 300 мАч (футляр)&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Чувствительность&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;105 дБ&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Частотный диапазон&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;20 Гц – 20 кГц&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Импеданс&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;16 Ом&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Водонепроницаемость&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;IPX4&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Материал корпуса&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;ABS пластик&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+      <description lang="ua">&amp;lt;div&amp;gt;
+  &amp;lt;p&amp;gt;Бездротові вакуумні Bluetooth-навушники SmartX Pro 2 Luxury поєднують у собі високу якість звуку та комфорт при використанні, даруючи чисте та насичене звучання.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;Модель SmartX Pro 2 Luxury є оновленою преміум-версією навушників, доступною за доступною ціною. Вони вражають не лише аудіо характеристиками, а й сучасним дизайном.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;Головні переваги:&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Чіп JL.&amp;lt;/b&amp;gt; Вбудований чіп JL забезпечує швидке та стабільне підключення до різних пристроїв на базі Windows, iOS, Mac OS, Android та інших платформ.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Гравірування.&amp;lt;/b&amp;gt; Кожен елемент навушників прикрашений унікальним гравіюванням.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Акустика Qualcomm.&amp;lt;/b&amp;gt; Використання високоякісних компонентів Qualcomm гарантує чисте звучання з глибокими басами без шумів і спотворень.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Шумозаглушення 70%.&amp;lt;/b&amp;gt; Навушники забезпечують ефективне приглушення зовнішніх шумів, що дозволяє повністю зануритися у музику.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Функціональні можливості.&amp;lt;/b&amp;gt; Пристрій підтримує бездротову зарядку, оснащений сенсорним управлінням, функцією автоматичного визначення присутності у вусі, а також сумісний із голосовими помічниками Siri і Google Assistant.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технічні характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;table&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Тип&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Вакуумні&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Підключення&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;Bluetooth 5.0&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Дальність дії&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;До 10 м&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Час роботи без підзарядки&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;До 5 годин (до 30 годин із кейсом)&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Час зарядки&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;1 година&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Ємність акумулятора&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;40 мАг (навушники) / 300 мАг (футляр)&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Чутливість&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;105 дБ&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Частотний діапазон&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;20 Гц – 20 кГц&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Імпеданс&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;16 Ом&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Водонепроникність&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;IPX4&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Матеріал корпусу&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;ABS пластик&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/table&amp;gt;
+&amp;lt;/div&amp;gt;</description>
+      <vendor code="afdgdim3tkjgernt">Smart X</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Конструкція" paramcode="12254" valuecode="1011c729eab91b7e47fd50262a03817e">вакуумні («затички»)</param>
+      <param name="Тип підключення" paramcode="5753" valuecode="a4ef1cc8a277753b9829634514c50428,72ee98d8794c090aaabadd196b4a993c">бездротове,Bluetooth</param>
+      <param name="Підключення" paramcode="1112" valuecode="18cf8888e7d9cbd46eb428604e1c0f1c">бездротове</param>
+      <param name="Матеріал амбушур" paramcode="4272" valuecode="2a3eeef3edab7ffcb1f8077ed96b9207">силікон</param>
+      <param name="Форма чаш" paramcode="10740" valuecode="0ee971a2892b3f1e946876191d5c2b2d">кругла</param>
+      <param name="Чутливість" paramcode="1421" valuecode="fd3bcd0d092b2e30fdefd5713f3452dc">до 84 (42-84)</param>
+      <param name="Чутливість" paramcode="12253">84</param>
+      <param name="Бренд" paramcode="brand" valuecode="afdgdim3tkjgernt">Smart X</param>
+      <param name="Вид навушників" paramcode="1057" valuecode="a3ccd32a538dc394210f5fe7f60d876a,c56acaec2f6776ee5abcdd10fbb86826,dab280c7f199f818ab437ad5f91b72d1,be2ea8cfc2096f9c0b5ba421c6c7f3c4,6a33d63266305dd12ca38d1a81357745,33b2a1fb91261726c92c2770161b7e92,f01ee268a1d7857d8e529fc0c3249297,6e50c14aec8022f72a61a115ffe23b6b">для конференцій,для Call-центру,для бігу,для Skype,для сну,для фітнесу,для дому,для занять спортом</param>
+      <param name="Тип" paramcode="12428" valuecode="e5f921a1977690438f4319185c94ff9a">навушники з мікрофоном</param>
+      <param name="Мікрофон" paramcode="9613" valuecode="dd82f0d5145b7db860fbd28a9dd57abb,c8402c666fa24e627db267a04edd1c33,17acab5b4c8577384f53e380864c83fc">у навушнику,вбудований у корпус,з мікрофоном</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Бездротові Bluetooth-навушники SmartX Pro 2 Luxury вакуумні, білий</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Беспроводные Bluetooth-наушники SmartX Pro 2 Luxury вакуумные, белые</param>
+      <param name="Особливості" paramcode="824" valuecode="6f11429cee340a410ecfc88200e8bb9c,wri9zmpk,nxbvf5qo,d8rufw8r,foiy7ogfv9mjovvx,i4d8cxppigg25fem,aubsttqe,kntldcmw,q4nvohmeua2wlyno,bac7nuyp">вбудований акумулятор,мікрофон із шумозаглушенням,регулятор гучності,Bluetooth,водонепроникні,антибактеріальне покриття,адаптер для літака,сумісність із iPhone,сумісність із Android,мікрофон</param>
+      <param name="Вага" paramcode="5435">200</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+      <param name="Глибина упаковки" paramcode="length">200.0</param>
+      <param name="Висота упаковки" paramcode="height">180.0</param>
+      <param name="Ширина упаковки" paramcode="width">90.0</param>
       <param name="Вага упаковки" paramcode="weight">350.0</param>
     </offer>
-    <offer id="b-X104" available="true">
-      <price>1199</price>
-      <price_old>1439</price_old>
-      <category code="2540">Повербанки</category>
-      <attribute_set code="2540">Повербанки</attribute_set>
-      <name lang="ru">Повербанк с магнитной беспроводной зарядкой MAGSAFE Li-Pol 10000 mAh 3 кабеля Lightning USB-C USB-A Черный (X104)</name>
-      <name lang="ua">Повербанк з магнітною бездротовою зарядкою MAGSAFE Li-Pol 10000 mAh 3 кабелі Lightning USB-C USB-A Чорний (X104)</name>
-      <picture>https://cdn.27.ua/sc--media--prod/default/18/83/2c/18832cc4-d53f-44ed-8ee9-6b41f769997d.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/c5/32/d2/c532d2e3-1d5d-43ed-a14d-96a9925b1d29.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/05/44/dd/0544dd4c-de18-4155-88e8-b883d5e5e8f6.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/45/a2/96/45a2965a-6fb4-430c-9961-9ef735e2e67a.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/7f/1b/a3/7f1ba3e3-4d05-42a8-a8cb-21c8aab0ff90.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/a4/91/e8/a491e86f-1b70-48c4-b8c8-4c4641d092ee.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/44/c0/cf/44c0cfa0-97a9-444a-a5ee-59406dde1da8.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/59/0d/7a/590d7ac0-8251-475b-b476-735e362a3f44.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/33/67/cd/3367cdec-9ec5-475e-b64e-813749391df2.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/22/67/b5/2267b5fd-690e-461f-8b12-8e73069bb194.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/51/a3/c7/51a3c7b9-0878-4e5e-92bc-d19ef1c91110.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/a9/47/f3/a947f333-8091-4275-9ad9-f8f04e8ecf44.png</picture>
-      <picture>https://cdn.27.ua/sc--media--prod/default/bf/e8/3a/bfe83acf-0daa-4864-b722-da2a59919575.png</picture>
-      <description lang="ru">&amp;lt;div&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативный универсальный пауэрбанк Smart X 10000 mAh (MagSafe, Fast Charge, 3 встроенных кабеля, черный)&amp;lt;/b&amp;gt; — это удобное зарядное устройство с магнитной беспроводной технологией, которое подходит для смартфонов, планшетов и других гаджетов. Устройство поддерживает быструю зарядку, оснащено тремя встроенными кабелями и имеет прозрачный корпус.&amp;lt;/p&amp;gt;
-
-&amp;lt;b&amp;gt;Основные преимущества и характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
+    <offer id="b-SWS8UO" available="true">
+      <price>1699</price>
+      <price_old>2039</price_old>
+      <category code="388">Смарт-годинники</category>
+      <attribute_set code="388">Смарт-годинники</attribute_set>
+      <name lang="ru">Смарт-часы SmartX8 Ultra с функцией звонка Оранжевый</name>
+      <name lang="ua">Смарт-годинник SmartX8 Ultra з функцією дзвінка Помаранчевий</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/83/cb/84/83cb847c-03d9-43a4-aa6d-26ab31b46a44.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/85/a0/23/85a02331-42da-4e65-a5a0-f4e6ee2e9b18.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/da/09/fc/da09fccb-a585-495f-a7e6-af573a641d91.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/34/63/81/3463813d-5f9e-4e78-b0a5-a8af6f4a3071.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/2d/52/35/2d5235a5-7686-44ad-8ae9-ff7b5b0d8c61.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/86/83/9d/86839d8c-4581-4500-b815-442b3f0fb02d.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/53/e8/a0/53e8a0fa-165f-459d-aee3-ae24c93fa456.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/6f/ad/cc/6fadcc1e-9028-4a96-87c9-47f6affb9b7d.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Смартчасы SmartX8 Ultra представляют собой универсальный гаджет, который сочетает стильный вид, разнообразие функций и приемлемую стоимость. Это устройство станет вашим надежным спутником в повседневных делах.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Экран с сенсорным управлением диагональю 2.2 дюйма демонстрирует четкое и яркое отображение данных. SmartX8 Ultra оснащён всем необходимым для контроля состояния здоровья и физической активности: измерение пульса, артериального давления, уровня кислорода в крови, анализ сна, а также спортивные режимы для детального мониторинга тренировок. Встроенный GPS позволяет отслеживать ваше местоположение и прокладывать маршруты во время прогулок, бега или велопрогулок.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Устройство также поддерживает функции звонков и сообщений, что помогает оставаться на связи без необходимости доставать телефон. Вы сможете получать уведомления о входящих звонках, SMS, электронных письмах и других событиях. Кроме этого, часы позволяют управлять музыкой на смартфоне, находить телефон, а также использовать будильник и секундомер.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технические характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость 10000 mAh&amp;lt;/b&amp;gt; — позволяет зарядить смартфон с батареей 4000–4500 mAh примерно дважды, в зависимости от модели и условий эксплуатации.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Магнитная беспроводная зарядка MagSafe&amp;lt;/b&amp;gt; — обеспечивает комфортную зарядку совместимых устройств без использования кабелей.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Технология быстрой зарядки Fast Charge&amp;lt;/b&amp;gt; — значительно сокращает время зарядки совместимых гаджетов.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Три встроенных кабеля&amp;lt;/b&amp;gt; — Lightning, USB‑C и USB‑A для подключения без дополнительных проводов.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Четыре разъема&amp;lt;/b&amp;gt; — USB‑C, USB‑A, microUSB и Apple Lightning для максимальной совместимости с разными устройствами.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цифровой дисплей&amp;lt;/b&amp;gt; — отображает текущий уровень заряда пауэрбанка.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Защита&amp;lt;/b&amp;gt; — от перепадов температуры, перенапряжения, перезаряда и глубокого разряда аккумулятора.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Возможность использования в самолетах&amp;lt;/b&amp;gt; — соответствует требованиям авиационных перевозок.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактные габариты&amp;lt;/b&amp;gt; — 11 × 6,6 × 21 см.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус&amp;lt;/b&amp;gt; — изготовлен из прочного пластика с прозрачными вставками.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние&amp;lt;/b&amp;gt; — новое устройство.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;b&amp;gt;Технические характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип устройства:&amp;lt;/b&amp;gt; универсальный пауэрбанк.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип аккумулятора:&amp;lt;/b&amp;gt; литий-полимерный (Li‑Pol).&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Емкость батареи:&amp;lt;/b&amp;gt; 10000 mAh.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Выходное напряжение:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный выходной ток:&amp;lt;/b&amp;gt; до 2 А.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Входное напряжение:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальный входной ток:&amp;lt;/b&amp;gt; до 2 А.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальное количество одновременно заряжаемых устройств:&amp;lt;/b&amp;gt; до 7 (с учетом беспроводной зарядки и всех портов).&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Наличие разъемов:&amp;lt;/b&amp;gt; USB‑A, USB‑C, microUSB, Lightning.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Материал корпуса:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цвет корпуса:&amp;lt;/b&amp;gt; черный с прозрачным дизайном.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Размеры:&amp;lt;/b&amp;gt; 110 × 66 × 210 мм.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вес:&amp;lt;/b&amp;gt; 300 г.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние:&amp;lt;/b&amp;gt; новое.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;b&amp;gt;Комплектация:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Пауэрбанк Smart X 10000 mAh — 1 штука.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Встроенные кабели Lightning, USB‑C, USB‑A.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка в виде блистера.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-&amp;lt;/div&amp;gt;</description>
+  &amp;lt;li&amp;gt;Дисплей: 2.2 дюйма&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Аккумулятор: 220 мАч&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Поддержка операционных систем iOS и Android&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>
       <description lang="ua">&amp;lt;div&amp;gt;
-&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Портативний універсальний павербанк Smart X 10000 mAh (MagSafe, Fast Charge, 3 вбудовані кабелі, чорний)&amp;lt;/b&amp;gt; — це зручний зарядний пристрій із магнітною бездротовою технологією, який підходить для смартфонів, планшетів та інших гаджетів. Пристрій підтримує швидку зарядку, оснащений трьома вбудованими кабелями та має прозорий корпус.&amp;lt;/p&amp;gt;
-
-&amp;lt;b&amp;gt;Основні переваги та характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність 10000 mAh&amp;lt;/b&amp;gt; — дозволяє зарядити смартфон із батареєю 4000–4500 mAh приблизно двічі, залежно від моделі та умов експлуатації.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Магнітна бездротова зарядка MagSafe&amp;lt;/b&amp;gt; — забезпечує комфортне заряджання сумісних пристроїв без використання кабелів.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Технологія швидкої зарядки Fast Charge&amp;lt;/b&amp;gt; — значно скорочує час заряджання сумісних гаджетів.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Три вбудовані кабелі&amp;lt;/b&amp;gt; — Lightning, USB‑C та USB‑A для підключення без додаткових проводів.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Чотири роз’єми&amp;lt;/b&amp;gt; — USB‑C, USB‑A, microUSB та Apple Lightning для максимальної сумісності з різними пристроями.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цифровий дисплей&amp;lt;/b&amp;gt; — відображає поточний рівень заряду павербанка.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Захист&amp;lt;/b&amp;gt; — від перепадів температури, перенапруги, перезаряду та глибокого розряду акумулятора.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Можливість використання в літаках&amp;lt;/b&amp;gt; — відповідає вимогам авіаційних перевезень.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактні габарити&amp;lt;/b&amp;gt; — 11 × 6,6 × 21 см.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус&amp;lt;/b&amp;gt; — виготовлений із міцного пластику з прозорими вставками.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан&amp;lt;/b&amp;gt; — новий пристрій.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;b&amp;gt;Технічні характеристики Power Bank Smart X:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип пристрою:&amp;lt;/b&amp;gt; універсальний павербанк.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип акумулятора:&amp;lt;/b&amp;gt; літій-полімерний (Li‑Pol).&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Ємність батареї:&amp;lt;/b&amp;gt; 10000 mAh.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вихідна напруга:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальний вихідний струм:&amp;lt;/b&amp;gt; до 2 А.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вхідна напруга:&amp;lt;/b&amp;gt; 5 В.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальний вхідний струм:&amp;lt;/b&amp;gt; до 2 А.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальна кількість одночасно заряджуваних пристроїв:&amp;lt;/b&amp;gt; до 7 (з урахуванням бездротової зарядки та всіх портів).&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Наявні роз’єми:&amp;lt;/b&amp;gt; USB‑A, USB‑C, microUSB, Lightning.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Матеріал корпусу:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Колір корпусу:&amp;lt;/b&amp;gt; чорний із прозорим дизайном.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Розміри:&amp;lt;/b&amp;gt; 110 × 66 × 210 мм.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вага:&amp;lt;/b&amp;gt; 300 г.&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан:&amp;lt;/b&amp;gt; новий.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
-
-&amp;lt;b&amp;gt;Комплектація:&amp;lt;/b&amp;gt;
-&amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Павербанк Smart X 10000 mAh — 1 одиниця.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вбудовані кабелі Lightning, USB‑C, USB‑A.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка у вигляді блістера.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;
+  &amp;lt;p&amp;gt;Смартгодинник SmartX8 Ultra представляє собою універсальний гаджет, який поєднує стильний вигляд, різноманітність функцій та прийнятну вартість. Цей пристрій стане вашим надійним супутником у щоденних справах.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;Екран із сенсорним управлінням діагоналлю 2.2 дюйма демонструє чітке та яскраве відображення даних. SmartX8 Ultra обладнаний усім необхідним для контролю стану здоров’я та фізичної активності: вимірювання пульсу, артеріального тиску, рівня кисню в крові, аналіз сну, а також спортивні режими для детального моніторингу тренувань. Вбудований GPS дозволяє відслідковувати ваше місцезнаходження та прокладати маршрути під час прогулянок, бігу або велопрогулянок.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;Пристрій також підтримує функції дзвінків і повідомлень, що допомагає залишатися на зв’язку без необхідності діставати телефон. Ви зможете отримувати сповіщення про вхідні дзвінки, SMS, електронні листи та інші події. Окрім цього, годинник дозволяє керувати музикою на смартфоні, знаходити телефон, а також використовувати будильник і секундомір.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технічні характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;Дисплей: 2.2 дюйма&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Акумулятор: 220 мАг&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Підтримка операційних систем iOS та Android&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
 &amp;lt;/div&amp;gt;</description>
       <vendor code="afdgdim3tkjgernt">Smart X</vendor>
       <country_of_origin code="aut">Австрія</country_of_origin>
       <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
       <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-      <param name="Ємність" paramcode="9519" valuecode="5fc0a31fa557f6092771f6aed5313b8a">1000 мА·год</param>
-      <param name="Ємність" paramcode="5490">1000</param>
-      <param name="Гарантія" paramcode="113">0.5</param>
-      <param name="Тип батареї" paramcode="1002" valuecode="a0ce5e68119572250ac002148f9cff7c">Li-pol</param>
-      <param name="Підходить для" paramcode="1111" valuecode="1ac859d926a7d29e0e2a968ea16e71ea,3001e341787630d682b5924959924a37,c75b94c59293410eb71b0160a82bdca4,cad17dc8a1b1bc293db551515babbcca,3f77094672d7f3c11a58cda5b7b2ff0d,b7d0f7210a8328aa11f5e2f4b7889a07,49c3b2239cddf33f6974f8a93c5c4100,6c0220cbb5824cdc5b25f98c4fd2bd65,5e77d5c131c007bbf68cf8d14c488c1d,4134b3dc4c5041e9f30bc21b72125847">смарт-годинників,електронної книги,MP3,телефона,айфона,роутера,планшета,фотоапарата,смартфона,універсального зарядного пристрою</param>
+      <param name="Діагональ дисплея" paramcode="5470">2.2</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Матеріал корпусу" paramcode="106" valuecode="d8523c2277183a65cfc1331291fb7f97,06fdbbcf94378c30808ea4b2415714a7,51de0b7a01b4f53bcd0800f03b950061">алюміній,силікон,нержавіюча сталь</param>
+      <param name="Бездротові технології" paramcode="11263" valuecode="d3654dced9a1ffcf26a8f13ec2251b16,aa4cebda1eede9c3c1da569d448e0fca,f130dbae69b07b84d9567297bc3fdc5a,24a7fbd807c8ae71bd5fe1b8a4029069">бездротова зарядка (Qi),Bluetooth,GPS,Wi-Fi</param>
+      <param name="Сумісність" paramcode="12439" valuecode="23c1d8030ec8448502c5de13fa96c2b8,f82b760b87c23a3b244cb5fa3754045d">iOS,Android</param>
+      <param name="Популярні запити" paramcode="7165" valuecode="089696affc846d50f5b7f8b32e8a8fb8,6e8a94fe81f5961c9ab07f6206f21d9b,3f2c82c05190ad6274d6e88598f29209">з великим екраном,кольорові,для iPhone</param>
+      <param name="Тип пристрою" paramcode="152" valuecode="8axtycsm9xqthjtu">смарт-годинник</param>
+      <param name="Сумісність з ОС" paramcode="893" valuecode="281dff4cd16db5dc22251abacd0a7c1c,fe28645e083f823b8e51f71da7429ec8">iOS,Android</param>
+      <param name="Дизайн" paramcode="4842" valuecode="7b2e13785b9bc399f8e10388def23c78,845471ff779707ab63e680048f4a68c5,0703a36d337457c6bff2bc12114b55bd">класичні,спортивні,спорт</param>
+      <param name="Інтерфейс підключення" paramcode="12379" valuecode="2b2723e3f1a95b4ea84ebfc78db12321,81a3808f06fe4fc3a32144b0e2a843ba">GPS,Bluetooth</param>
+      <param name="Моніторинг" paramcode="12382" valuecode="c7cc9dcb6e84b9f1ac70e45347323017,407fbae0791c791215d4051d6485f0bb,6c7c76fd079ff9b8c92293666120df7f,fb336a1e61c21ca2edb5ccb5a4f33358,432a2dc1ce01aa569ebaef6b4dc24cf3,6cc3078b021b56b73b317ab7fdd2dd1d,25db1930cece6b9d8069dba508748a99,454a81b539df02f0be12d119edc29c81,eea32f55488cafee5689db6868f64332,aa3f92ac57c4b7c4c250d92c232f21f6,e10ed64d057447ca95a97b81a2aff825,3a6042af68745cbf4c44b096f13ea583,08f2807a13a90298305a7b19d0c99764">відстеження швидкості руху,кроки,біг,велосипедне тренування,відстеження локації,підрахунок витрачених калорій,звуки,будильник,будильник по фазам сну,серцевий ритм,тривалість активності,акселерометр,підрахунок пройденої відстані</param>
+      <param name="Датчики" paramcode="12383" valuecode="5fc94ce4a4ad8634a40984c234084acf,543ce6559d0fbe5e6fc286ad35eaf3e9,d91e198c7d7d203815a4c2a688eb9513,27e0e0ebc2fd23004dd93126c31b889b,4ec06478a1452cb0a33779e4aee3ab84,a54f78139496f38d3f78bc5fab731e36,cd8d4705988aba8e014037ed76dd5ab3,3998361a216974cbe519c13bb0ecfde7,7363779daba38a8e15c5730be7903b55,3b235ed75fab1dc42a06767024a83e71,789df86a58eefa31ffb8359f520cf4c6,009b8adc7ff3a7fa64dad296969ebc71">датчик освітлення,мікрофон,GPS,датчик прискорення,акселерометр,вимірювач пульсу,крокомір,серцевого ритму,будильник,вібропривід,датчик зняття з руки,секундомір</param>
+      <param name="Захист корпусу" paramcode="12384" valuecode="5a128a0f09355cbd5b5a66b9e4b35513,6dcb7e7f9b1e63ad18c47460501f4b57,59fe0a4a31b1514ef95f8e85456239d9">від ударів,від вологи (WR50),від тимчасового занурення у воду (IPX7)</param>
+      <param name="Призначення" paramcode="1120" valuecode="a9465964f3c6704a387bc634abbc3de9,db94e270c18c65ce2478362183fa30bd">універсальна,для бігу</param>
       <param name="Бренд" paramcode="brand" valuecode="afdgdim3tkjgernt">Smart X</param>
-      <param name="Кількість портів USB" paramcode="9610" valuecode="56628a936254cbaa536c37753a069f8a">6</param>
-      <param name="Час зарядки" paramcode="5450">10</param>
-      <param name="Матеріал корпусу" paramcode="4236" valuecode="15c364fd7a68e2596f314448f2b4175c">пластик</param>
-      <param name="Додаткові характеристики" paramcode="2771" lang="ua">Ємність: 10000 mAh.
-Вихідна напруга: 5 В.
-Вихідний струм: до 2 А.
-Вхідна напруга: 5 В.
-Вхідний струм: до 2 А.
-Кількість одночасно заряджуваних пристроїв: до 7 (з урахуванням бездротової зарядки та всіх портів).
-Роз’єми: USB‑A, USB‑C, microUSB, Lightning.</param>
-      <param name="Додаткові характеристики" paramcode="2771" lang="ru">Ёмкость: 10000 мАч.  
-Выходное напряжение: 5 В.  
-Выходной ток: до 2 А.  
-Входное напряжение: 5 В.  
-Входной ток: до 2 А.  
-Количество одновременно заряжаемых устройств: до 7 (с учётом беспроводной зарядки и всех портов).  
-Разъёмы: USB‑A, USB‑C, microUSB, Lightning.</param>
-      <param name="Потужність" paramcode="3072" valuecode="5963c2691c08d62521a753ecba10f767">5 Вт</param>
-      <param name="Вихідний струм та напруга" paramcode="11208" lang="ua">5 В.
-2 А (макс).</param>
-      <param name="Вихідний струм та напруга" paramcode="11208" lang="ru">5 В.
-2 А (макс).</param>
-      <param name="Вхідний струм та напруга" paramcode="11211" lang="ua">5 В.
-2 А (макс).</param>
-      <param name="Вхідний струм та напруга" paramcode="11211" lang="ru">5 В.
-2 А (макс).</param>
-      <param name="Особливості" paramcode="9518" valuecode="c3a910d4ee2809bf66a65bd0a290ec89,143e8321e0508e94f28e96e6fd52bfbf,6736b1cca28b6899fd0dcea51aac310c,e097b01e0bbb012495b2a5871aa1e4ea,27f693ae3aabec20fa9b67aee30b7ed9,1ab7b7d500525c28feb1afa311c40e49,526a7721639c225e04be4164672ca19e,af90e4ea917dcdd1852e1e72a8ada1a2,bde6fd92f304ba2b8aa1a2c48277b9d4,868b32fe17b967a42b047b35d1e998c3,bf6bcba0d52192ef368e311f975632c2,e4da2fccabe0bf3f40e7507f34bdfb91,7dbc8deb0f3be3e05ff0e20c502913f2">безпровідна зарядка,технологія швидкої зарядки,LED-індикатор рівня залишкового заряду,технологія Fast Charge,багаторівнева система захисту для всіх пристроїв,вбудований кабель Lightning,пилозахищений корпус,LED-індикатори,захист від перезаряджання,захист від надмірного розрядження,ударостійкий корпус,захист від короткого замикання,захист від перегріву</param>
+      <param name="Особливості" paramcode="153" valuecode="e9d74eb9aed271d65aa90770456eff95,2khim9wfn6mjc1np,qdehgvoz,2119979a36ef99883465322bf1f96f27,df8o55eb,jfwdwsvggo8bnxa5,xuzfq9trhkk0st62">вологостійкість,з датчиком,Bluetooth,акселерометр,дисплей,протиударні,водонепроникні</param>
+      <param name="Для кого" paramcode="4865" valuecode="6351a8da9ddd3e1f81bb2f05d194a871,236ee60853ea1d1bfb63fcbaf775f2e8,a29c084594f9ac3894c95ae34b21e84e,bc675f1900db1c91be97640d649d226d">універсальні,для підлітків,чоловічі,жіночі</param>
+      <param name="Колір виробника" paramcode="78" valuecode="lcjfhn4e">помаранчевий</param>
+      <param name="Ремінець" paramcode="5933" valuecode="386d14d1378910a46a1a1c15441e8a56">з силіконовим ремінцем</param>
+      <param name="Основні функції" paramcode="11837" valuecode="1aff69ce6fc84bf38009002f5676cd7d,62b93d038277c768cfe95cb970a474ff,260bc8627d99fcec8a7ddceb3bc9821e,4245171746122380e44d5fb27e6afde4,dc157795a9d48600af4973e1017c6e23,a814fedebc5272bcaca58afca52192f8,e66cec7caab23a2c6d5fff1e9060f412,4bda0491a0b60074d64ac0d26d3fdf35">з калькулятором,з мікрофоном,з вимірюванням тиску,з будильником,з секундоміром,з пульсометром,з функцією дзвінка,з крокоміром</param>
+      <param name="Форма" paramcode="9992" valuecode="3dae6697fbf377cb5b63976c63f0b42f,801584591291f099da037414448da158">квадратні,прямокутні</param>
+      <param name="Відображення інформації" paramcode="12387" valuecode="3050070b60a654d71a3ebc1a432c4267">дисплей</param>
+      <param name="Тип дисплею/індикатора" paramcode="12388" valuecode="3b39a9ee1e78ba17facbfe345cbf4e63">AMOLED</param>
+      <param name="Тип дисплею (кольоровість)" paramcode="12389" valuecode="96fcaf1ea02160b0149abdc2f5ba72cf">кольоровий</param>
+      <param name="Повідомлення" paramcode="5765" valuecode="e408ec67735df6d11c92ea28a5550d99,e8833ab91d43fb99b30eaf17227e73ef,e8833ab91d43fb99b30eaf17227e73ef,e408ec67735df6d11c92ea28a5550d99,0b0f8fbdb8477e278d8c9381097d3e2f,a005c8c9db77ee85c5cba30e13693204">вібрація,SMS,SMS,вібрація,виклики,звукове</param>
+      <param name="Колір корпусу" paramcode="6442" valuecode="1cc84b1b2afe95fa3882e299a9f391b0">помаранчевий</param>
+      <param name="Колір ремінця" paramcode="7048" valuecode="8aab3c7f2eb0bd29f408c53e21715d7a">помаранчевий</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Смарт-годинник SmartX8 Ultra з функцією дзвінка, помаранчевий</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Смарт-часы SmartX8 Ultra с функцией звонка, оранжевые</param>
+      <param name="Глибина упаковки" paramcode="length">200.0</param>
+      <param name="Висота упаковки" paramcode="height">100.0</param>
+      <param name="Ширина упаковки" paramcode="width">250.0</param>
+      <param name="Вага упаковки" paramcode="weight">500.0</param>
+    </offer>
+    <offer id="b-WJ801" available="true">
+      <price>4369</price>
+      <price_old>5243</price_old>
+      <category code="6841">Професійні фритюрниці</category>
+      <attribute_set code="6841">Професійні фритюрниці</attribute_set>
+      <name lang="ru">Фритюрница Sokany WJ-801 с защитой от перегрева 5 л</name>
+      <name lang="ua">Фритюрниця Sokany WJ-801 із захистом від перегріву 5 л</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/3d/7d/e4/3d7de41e-bcc1-4d70-9bc9-180dc1a00323.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/be/12/fd/be12fdcf-3131-457e-a3d3-6bef32899c0b.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/01/f4/fe/01f4fe3a-dae7-4049-9837-7990ddf867b8.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/c3/bb/0f/c3bb0fa7-7e32-4935-bd2a-66f1930b3293.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/d7/f3/6d/d7f36da6-38a7-4abf-8bb6-72517d9c93ab.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Фритюрница SOKANY WJ-801 представляет собой мощное и многофункциональное устройство, которое идеально подходит для приготовления хрустящей и вкусной еды. Она оснащена большой емкостью объемом 5 литров, что позволяет готовить значительные порции за один цикл.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Устройство оснащено эффективным нагревательным элементом, который быстро доводит масло до необходимой температуры для жарки.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Модель SOKANY WJ-801 также имеет ряд систем безопасности, среди которых защита от перегрева и функция автоматического отключения, что делает ее эксплуатацию максимально безопасной и комфортной.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Основные характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Мощность 2000 Вт обеспечивает быстрый и равномерный процесс приготовления.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Регулируемый термостат позволяет устанавливать оптимальную температуру для различных видов блюд.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Съемная чаша с антипригарным покрытием облегчает очистку и подходит для мытья в посудомоечной машине.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Защитный фильтр предотвращает распространение неприятных запахов и дыма во время работы.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Функция защиты от перегрева гарантирует безопасное использование устройства.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>
+      <description lang="ua">&amp;lt;p&amp;gt;Фритюрниця SOKANY WJ-801 являє собою потужний і багатофункціональний пристрій, який ідеально підходить для приготування хрусткої та смачної їжі. Вона оснащена великою ємністю об’ємом 5 літрів, що дозволяє готувати значні порції за один цикл.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Пристрій оснащений ефективним нагрівальним елементом, який швидко доводить олію до необхідної температури для смаження.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Модель SOKANY WJ-801 також має низку систем безпеки, серед яких захист від перегріву та функція автоматичного вимкнення, що робить її експлуатацію максимально безпечною та комфортною.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Основні характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Потужність 2000 Вт забезпечує швидкий і рівномірний процес приготування.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Регульований термостат дає змогу встановлювати оптимальну температуру для різних видів страв.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Знімна чаша з антипригарним покриттям полегшує очищення і підходить для миття в посудомийній машині.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Захисний фільтр запобігає поширенню неприємних запахів і диму під час роботи.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Функція захисту від перегріву гарантує безпечне використання пристрою.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>
+      <vendor code="e486b77980ee40f0ad6ab506108a229f">Sokany</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Потужність" paramcode="9997">2</param>
+      <param name="Кількість ємностей" paramcode="10594">2</param>
+      <param name="Об'єм" paramcode="9932">5</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Фритюрниця професійна SOKANY WJ-801 на 5 л із захистом від перегріву</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Профессиональная фритюрница SOKANY WJ-801 на 5 л с защитой от перегрева</param>
+      <param name="Особливості" paramcode="2860" lang="ua">Фритюрниця SOKANY WJ-801 - це потужна та універсальна фритюрниця, яка ідеально підходить для приготування хрусткої та смачної їжі. Вона має велику ємність 5 літрів, що дозволяє готувати великі порції їжі за один раз. Фритюрниця обладнана потужним нагрівальним елементом, який швидко нагріває олію до потрібної температури</param>
+      <param name="Особливості" paramcode="2860" lang="ru">Фритюрница SOKANY WJ-801 – это мощная и универсальная фритюрница, которая идеально подходит для приготовления хрустящей и вкусной еды. Она имеет большую емкость 5 литров, что позволяет готовить большие порции еды за один раз. Фритюрница оснащена мощным нагревательным элементом, который быстро нагревает масло до нужной температуры.</param>
+      <param name="Бренд" paramcode="brand" valuecode="e486b77980ee40f0ad6ab506108a229f">Sokany</param>
+      <param name="Колір виробника" paramcode="78" valuecode="660,wdlnhtlh,gsyiryzw">нержавіюча сталь,срібний,сірий</param>
+      <param name="Тип" paramcode="10776" valuecode="2raritwx">фритюрниця</param>
+      <param name="Матеріал корпусу" paramcode="106" valuecode="51de0b7a01b4f53bcd0800f03b950061">нержавіюча сталь</param>
+      <param name="Тип установки" paramcode="3341" valuecode="ea4f967ad33f5e12679d1a657961045a">настільний</param>
+      <param name="Сфера застосування" paramcode="4987" valuecode="631611b6bf8455cf72ecf816eaea0b25">професійні</param>
+      <param name="Глибина упаковки" paramcode="length">450.0</param>
+      <param name="Висота упаковки" paramcode="height">350.0</param>
+      <param name="Ширина упаковки" paramcode="width">350.0</param>
+      <param name="Вага упаковки" paramcode="weight">5000.0</param>
+    </offer>
+    <offer id="b-SK-187" available="true">
+      <price>3661</price>
+      <price_old>4393</price_old>
+      <category code="119">Блендери</category>
+      <attribute_set code="119">Блендери</attribute_set>
+      <name lang="ru">Блендер стационарный SOKANY три чаши 0,5/1/1,5 л (SK-187)</name>
+      <name lang="ua">Блендер стаціонарний SOKANY три чаші 0,5/1/1,5 л (SK-187)</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/4d/9f/2a/4d9f2a1b-b9f9-41ea-8835-2a0213b11f7c.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/21/99/56/2199566c-3ec4-4dcf-a790-bdbee060faf6.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/78/d4/07/78d4074d-de08-409e-b463-fd5fd825e58e.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/dd/bc/22/ddbc222a-8df1-49cd-a006-b58efa23e12c.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/c7/60/25/c7602554-3b68-40c7-a506-cae906613a13.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/6d/29/2e/6d292eb5-259d-4bce-b784-0fe7fe3e89bd.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/93/45/56/93455640-c1f9-4ba0-969a-f3708709704f.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/c2/23/28/c2232889-1b88-4ac8-be36-b59e4bc5fd1d.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/ab/6d/12/ab6d1270-7a9e-4921-ae5f-eb9e5707e9e3.jpg</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Блендер SOKANY SK-187 оснащён тремя разными чашами, что делает его универсальным устройством для кухни. Благодаря мощности в 1000 Вт он легко справится с разнообразными задачами, такими как измельчение кофе, орехов, льда, а также приготовление пюре, соусов и смешивание ингредиентов.&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Главная чаша объёмом 1,5 литра подходит для обработки мяса, овощей, создания смузи, пюре и соусов;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Чаша на 1 литр идеальна для работы с твёрдыми или замороженными продуктами, а также для приготовления сорбетов и смешивания разных компонентов;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Кофемолка ёмкостью 0,5 литра предназначена для измельчения кофе, специй, орехов и сыпучих продуктов.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;Устройство имеет две скорости работы. Чаши изготовлены из пищевой нержавеющей стали. Для комфортного использования ручка покрыта материалом, предотвращающим скольжение, а основание оборудовано прорезиненными ножками для устойчивости.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технические характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Мощность: 1000 Вт&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Объём чаш: 1,5 л / 1 л / 0,5 л&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ножи: нержавеющая сталь&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Материал чаш: нержавеющая сталь&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Габариты: 15 × 15 × 40 см&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Вес: 2,6 кг&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>
+      <description lang="ua">&amp;lt;p&amp;gt;Блендер SOKANY SK-187 оснащений трьома різними чашами, що робить його універсальним пристроєм для кухні. Завдяки потужності у 1000 Вт він легко впорається з різноманітними завданнями, такими як подрібнення кави, горіхів, льоду, а також приготування пюре, соусів і змішування інгредієнтів.&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Головна чаша об'ємом 1,5 літра підходить для обробки м'яса, овочів, створення смузі, пюре та соусів;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Чаша на 1 літр ідеальна для роботи з твердими або замороженими продуктами, а також для приготування сорбетів і змішування різних компонентів;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Млинок ємністю 0,5 літра призначений для подрібнення кави, спецій, горіхів та сипучих продуктів.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;Пристрій має дві швидкості роботи. Чаші виготовлені з харчової нержавіючої сталі. Для комфортного використання ручка покрита матеріалом, що запобігає ковзанню, а основа обладнана прогумованими ніжками для стійкості.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технічні характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Потужність: 1000 Вт&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Об’єм чаш: 1,5 л / 1 л / 0,5 л&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Ножі: нержавіюча сталь&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Матеріал чаш: нержавіюча сталь&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Габарити: 15 × 15 × 40 см&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Вага: 2,6 кг&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>
+      <vendor code="e486b77980ee40f0ad6ab506108a229f">Sokany</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Потужність" paramcode="103">1000</param>
+      <param name="Гарантія" paramcode="113">6</param>
+      <param name="Об'єм чаші блендера" paramcode="174">1.5</param>
+      <param name="Тип" paramcode="9477" valuecode="a7eebedd04f94e6edcfb5baec5585505">стаціонарний</param>
+      <param name="Насадки" paramcode="9484" valuecode="b89565106df747e4fc8842c83bfacc17,76444198fed8ee3616c56bded0b6939a,699bcf083f4a4e7c1eaa76b9d87fce10,88935ccee7149d617ff07bdf59369d45,c80a668a4f898cc3fbf0984be196ee49">для пюре,для подрібнення льоду,для соусів,подрібнювач,млинок</param>
+      <param name="Кількість подрібнювачів" paramcode="5521">3</param>
+      <param name="Матеріал чаші" paramcode="169" valuecode="1d1524601432ae2a401ec3a3f1c60c7f">метал</param>
+      <param name="Країна реєстрації бренду" paramcode="404" valuecode="chn">Китай</param>
+      <param name="Особливості" paramcode="2129" valuecode="0c63d558c47a37659a91779071e4926b,c9d77d007345cabbcca8469d8c8d8d28,9e3e1ce387781ff1f6330005fa9442fa">3 в 1,висока швидкість,система контролю розбризкування</param>
+      <param name="Призначення" paramcode="3169" valuecode="4iipzlvmwoj1r7ie,j58hhmsbl5elwuoi,ocnca7ywrkqpn7dp,57a8728a411302e3e5c42598b12bdb32">для горіхів,для смузі,для соусів,для коління льоду</param>
+      <param name="Сфера застосування" paramcode="4987" valuecode="8f2ccdec6cd2a1eaa88ff048af5ad730,3d72a44b64bfd202093b87b208e33280">для дому,для кухні</param>
+      <param name="Бренд" paramcode="brand" valuecode="e486b77980ee40f0ad6ab506108a229f">Sokany</param>
+      <param name="Модель" paramcode="4351" lang="ua">SK-187</param>
+      <param name="Модель" paramcode="4351" lang="ru">СК-187</param>
+      <param name="Кількість швидкостей" paramcode="9479" valuecode="aef8c5a9446447f3b87712788fa0e230">2</param>
+      <param name="Кількість швидкостей" paramcode="116">2</param>
+      <param name="Міні-подрібнювач" paramcode="9482" valuecode="yes">так</param>
+      <param name="Об'єм міні-подрібнювача" paramcode="9483">0.5</param>
+      <param name="Режими" paramcode="9485" valuecode="206feba75135693579b7e36d0b143545,77bebb0ca38cbc0f5d391338525e822d">змішування,коління льоду</param>
+      <param name="Колір виробника" paramcode="78" valuecode="660">нержавіюча сталь</param>
+      <param name="Колір" paramcode="2845" valuecode="84c22cc78ffe2ebaccd6fa0c7aa3e246">нержавіюча сталь</param>
+      <param name="Довжина мережевого шнура" paramcode="768">95</param>
+      <param name="Комплектація" paramcode="767" lang="ua">основна чаша об'ємом 1,5 літра;
+чаша об'ємом 1 літр;
+млин об'ємом 0,5 літра.</param>
+      <param name="Комплектація" paramcode="767" lang="ru">основная чаша объемом 1,5 литра;
+чаша объемом 1 литр;
+мельница объемом 0,5 литра.</param>
+      <param name="Розмір" paramcode="10792" lang="ua">15*15*40 см см</param>
+      <param name="Розмір" paramcode="10792" lang="ru">15*15*40 см</param>
+      <param name="Висота" paramcode="110">40</param>
+      <param name="Ширина" paramcode="111">15</param>
+      <param name="Вага" paramcode="762">2.6</param>
+      <param name="Глибина упаковки" paramcode="length">450.0</param>
+      <param name="Висота упаковки" paramcode="height">430.0</param>
+      <param name="Ширина упаковки" paramcode="width">480.0</param>
+      <param name="Вага упаковки" paramcode="weight">3000.0</param>
+    </offer>
+    <offer id="b-SK-124" available="true">
+      <price>1649</price>
+      <price_old>1979</price_old>
+      <category code="8239">Кавоварки</category>
+      <attribute_set code="8239">Кавоварки</attribute_set>
+      <name lang="ru">Капельная кофеварка Sokany SK-124 с подогревом стеклянного кофейника 600 мл Черный (SK-124)</name>
+      <name lang="ua">Кавоварка краплинна Sokany SK-124 з підігрівом кавника зі скла 600 мл Чорний (SK-124)</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/71/c1/f2/71c1f2f8-7d98-446e-b2ba-a30fd022c7cf.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/6f/d6/05/6fd605ff-4fc1-465a-8c83-368dff912835.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/3f/2b/47/3f2b478a-8bbd-407b-82a5-15fa768aa608.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/f4/de/17/f4de17ad-eeee-4c43-bf9d-557f62388bb7.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/ed/24/44/ed244479-5f50-4980-866b-9d85de101616.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/03/ce/f9/03cef9a1-7c99-4b14-a1bf-ff546b655c05.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/21/a3/67/21a36746-f83a-4ce0-986c-6c06d86048b6.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/7a/53/b8/7a53b816-61a8-4e2f-b84d-7f6e860b892b.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/b3/99/08/b3990885-b6e7-45af-9037-ce50c229b78c.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/80/95/37/8095378a-f0e7-444c-8f33-ac3341600e79.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/36/04/ad/3604ad49-6da0-4114-97cb-bf679e7727b9.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/f2/64/5b/f2645b90-39e2-48ed-a78a-17f66d282430.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/e6/d3/ad/e6d3ad04-f26a-4a45-acf4-eaa3d06a19bd.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/3b/c9/59/3bc95964-5d20-4108-be36-6c6fa51654d4.png</picture>
+      <description lang="ru">&amp;lt;div&amp;gt;
+  &amp;lt;p&amp;gt;Капельная кофеварка &amp;lt;b&amp;gt;Sokany SK‑124&amp;lt;/b&amp;gt; оснащена стеклянным кофейником объемом 600 мл и предназначена для использования дома или на кухне. Устройство имеет функцию подогрева кофейника, что позволяет сохранять напиток теплым до 60 минут, а также автоматическое отключение для повышения безопасности.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Основные преимущества и функции кофеварки Sokany SK‑124:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Кофейник вместимостью 600 мл&amp;lt;/b&amp;gt; — хватает на несколько порций кофе.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Мощность 950 Вт&amp;lt;/b&amp;gt; обеспечивает быстрое приготовление.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Подогрев кофейника&amp;lt;/b&amp;gt; поддерживает оптимальную температуру напитка до одного часа.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Автоматическое отключение&amp;lt;/b&amp;gt; повышает безопасность и экономит электроэнергию.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Защита от перегрева&amp;lt;/b&amp;gt; гарантирует надежную работу устройства.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Механическое управление&amp;lt;/b&amp;gt; делает эксплуатацию простой и удобной.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Индикатор уровня воды&amp;lt;/b&amp;gt; помогает контролировать количество жидкости.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактные габариты&amp;lt;/b&amp;gt; — высота 29 см, что позволяет легко разместить кофеварку на кухонной поверхности.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус из прочного пластика и стеклянный кофейник&amp;lt;/b&amp;gt; обеспечивают долговечность и стильный вид.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технические характеристики кофеварки Sokany SK‑124:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Производитель:&amp;lt;/b&amp;gt; Sokany.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип устройства:&amp;lt;/b&amp;gt; капельная кофеварка.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Управление:&amp;lt;/b&amp;gt; механическое.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Используемый тип кофе:&amp;lt;/b&amp;gt; молотый.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Объем резервуара для воды:&amp;lt;/b&amp;gt; 0,6 л.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Мощность:&amp;lt;/b&amp;gt; 950 Вт.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Материал корпуса:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Материал кофейника:&amp;lt;/b&amp;gt; стекло.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Дополнительные функции:&amp;lt;/b&amp;gt; подогрев кофейника, автоматическое отключение, индикатор работы, индикатор уровня воды.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Размеры:&amp;lt;/b&amp;gt; высота 290 мм.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вес:&amp;lt;/b&amp;gt; 1,3 кг.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цвет:&amp;lt;/b&amp;gt; черный.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние:&amp;lt;/b&amp;gt; новый.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Комплектация:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;Кофеварка Sokany SK‑124.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Стеклянный кофейник.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Инструкция по эксплуатации.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Оригинальная упаковка.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;</description>
+      <description lang="ua">&amp;lt;div&amp;gt;
+  &amp;lt;p&amp;gt;Крапельна кавоварка &amp;lt;b&amp;gt;Sokany SK‑124&amp;lt;/b&amp;gt; оснащена скляним кавником об’ємом 600 мл і призначена для використання вдома або на кухні. Пристрій має функцію підігріву кавника, що дозволяє зберігати напій теплим до 60 хвилин, а також автоматичне вимкнення для підвищення безпеки.&amp;lt;/p&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Основні переваги та функції кавоварки Sokany SK‑124:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Кавник місткістю 600 мл&amp;lt;/b&amp;gt; — вистачає на кілька порцій кави.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Потужність 950 Вт&amp;lt;/b&amp;gt; забезпечує швидке приготування.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Підігрів кавника&amp;lt;/b&amp;gt; підтримує оптимальну температуру напою до однієї години.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Автоматичне відключення&amp;lt;/b&amp;gt; підвищує безпеку та економить електроенергію.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Захист від перегріву&amp;lt;/b&amp;gt; гарантує надійну роботу пристрою.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Механічне керування&amp;lt;/b&amp;gt; робить експлуатацію простою та зручною.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Індикатор рівня води&amp;lt;/b&amp;gt; допомагає контролювати кількість рідини.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактні габарити&amp;lt;/b&amp;gt; — висота 29 см, що дозволяє легко розмістити кавоварку на кухонній поверхні.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Корпус із міцного пластику та скляний кавник&amp;lt;/b&amp;gt; забезпечують довговічність і стильний вигляд.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технічні характеристики кавоварки Sokany SK‑124:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Виробник:&amp;lt;/b&amp;gt; Sokany.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип пристрою:&amp;lt;/b&amp;gt; крапельна кавоварка.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Управління:&amp;lt;/b&amp;gt; механічне.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Використовуваний тип кави:&amp;lt;/b&amp;gt; мелена.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Об’єм резервуара для води:&amp;lt;/b&amp;gt; 0,6 л.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Потужність:&amp;lt;/b&amp;gt; 950 Вт.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Матеріал корпусу:&amp;lt;/b&amp;gt; пластик.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Матеріал кавника:&amp;lt;/b&amp;gt; скло.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Додаткові функції:&amp;lt;/b&amp;gt; підігрів кавника, автоматичне вимкнення, індикатор роботи, індикатор рівня води.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Розміри:&amp;lt;/b&amp;gt; висота 290 мм.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вага:&amp;lt;/b&amp;gt; 1,3 кг.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Колір:&amp;lt;/b&amp;gt; чорний.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан:&amp;lt;/b&amp;gt; новий.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Комплектація:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;Кавоварка Sokany SK‑124.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Скляний кавник.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Інструкція з експлуатації.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Оригінальна упаковка.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;</description>
+      <vendor code="e486b77980ee40f0ad6ab506108a229f">Sokany</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Вид" paramcode="131" valuecode="ed51c5f04fe8dd713ef123213466991b">крапельна</param>
+      <param name="Бренд" paramcode="brand" valuecode="e486b77980ee40f0ad6ab506108a229f">Sokany</param>
       <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-      <param name="Розміри та вага" paramcode="9856" lang="ua">11 × 6,6 × 21 см
-300 г</param>
-      <param name="Розміри та вага" paramcode="9856" lang="ru">11 × 6,6 × 21 см  
-300 г</param>
-      <param name="Комплектація" paramcode="767" lang="ua">Павербанк Smart X 10000 mAh — 1 шт.
-Вбудовані кабелі (Lightning, USB‑C, USB‑A).
-Упаковка (блістер).</param>
-      <param name="Комплектація" paramcode="767" lang="ru">Повербанк Smart X 10000 мАч — 1 шт.  
-Встроенные кабели (Lightning, USB‑C, USB‑A).  
-Упаковка (блистер).</param>
-      <param name="Перехідник у комплекті" paramcode="5639" valuecode="5f0a491d3441dd17bddf8e823342c328,ecc5382bb1953dc40b163cb1110b98b1,8599592080a6661465f15c0ed177ecba">microUSB,Apple Lightning,USB type-C</param>
-      <param name="Глибина упаковки" paramcode="length">40.0</param>
+      <param name="Вид використовуваної кави" paramcode="142" valuecode="8811126e3f8bf29f9bc8cf7114d236a0">мелена</param>
+      <param name="Керування" paramcode="10900" valuecode="3453e416513cbf1b28a659904d9c37e2">механічне</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+      <param name="Потужність, Вт" paramcode="11119" valuecode="d342c429201eb556034f48dea191f211">501 - 1000</param>
+      <param name="Робочий тиск" paramcode="11114" valuecode="3f2fcd22625a32afb6704363db2ba949">до 9</param>
+      <param name="Потужність" paramcode="103">950</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Кавоварка Sokany SK‑124.
+Скляний кавник.
+Інструкція.
+Упаковка.</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Кофеварка Sokany SK‑124.
+Стеклянный кофейник.
+Инструкция.
+Упаковка.</param>
+      <param name="Тип капучинатора" paramcode="144" valuecode="3a569d55b3f2a21ad9b958f382d48f4f">відсутній</param>
+      <param name="Об'єм резервуара для води" paramcode="6305" valuecode="3e223783137b2379955e96f568410960">0,5 - 0,9 л</param>
+      <param name="Особливості" paramcode="11116" valuecode="cc8b614c85f03dab0d3a0f1d4d3de3e9">підтримка тепла</param>
+      <param name="Додаткові характеристики" paramcode="2771" lang="ua">Кавоварка крапельна Sokany SK‑124,
+Об’єм кавника 600 мл — достатньо для кількох чашок кави.
+Потужність 950 Вт — швидке приготування напою.
+Підігрів кавника підтримує температуру кави до 1 години.
+Автовідключення для безпеки та енергоефективності.
+Захист від перегріву для надійної роботи.
+Просте механічне управління — зручність у використанні.
+Індикатор рівня води для контролю наповнення.
+Компактні розміри — висота 29 см, зручно розмістити на кухні.
+Скляний кавник та корпус із міцного пластику.</param>
+      <param name="Додаткові характеристики" paramcode="2771" lang="ru">Капельная кофеварка Sokany SK‑124,  
+Объем кофейника 600 мл — достаточно для нескольких чашек кофе.  
+Мощность 950 Вт — быстрое приготовление напитка.  
+Подогрев кофейника поддерживает температуру кофе до 1 часа.  
+Автоотключение для безопасности и энергоэффективности.  
+Защита от перегрева для надежной работы.  
+Простое механическое управление — удобство в использовании.  
+Индикатор уровня воды для контроля наполнения.  
+Компактные размеры — высота 29 см, удобно разместить на кухне.  
+Стеклянный кофейник и корпус из прочного пластика.</param>
+      <param name="Матеріал корпусу" paramcode="11121" valuecode="8e7a8a8b0dce783ac82348a409b29518,e078b28b958630c0f2d96ca6b3f4887d">пластик,скло</param>
+      <param name="Глибина упаковки" paramcode="length">210.0</param>
+      <param name="Висота упаковки" paramcode="height">240.0</param>
+      <param name="Ширина упаковки" paramcode="width">320.0</param>
+      <param name="Вага упаковки" paramcode="weight">1500.0</param>
+    </offer>
+    <offer id="b-HP-11-15M" available="true">
+      <price>749</price>
+      <price_old>899</price_old>
+      <category code="8735">Вакуумні пакувальники</category>
+      <attribute_set code="8735">Вакуумні пакувальники</attribute_set>
+      <name lang="ru">Вакууматор для влажных и сухих продуктов 90 Вт 10 пакетов Ментоловый (HP-11-15M)</name>
+      <name lang="ua">Вакууматор для вологих та сухих продуктів 90 Вт 10 пакетів Ментоловий (HP-11-15M)</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/07/1d/87/071d8767-f95a-4b8a-8993-a462156c759f.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/66/67/cd/6667cd3f-e86f-4844-ba63-008f2d043c53.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/6e/bf/e9/6ebfe9b7-cb87-4f02-8ed8-a03a6bfba584.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/74/08/7d/74087da5-f394-4d77-a850-ef530fc73e99.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/98/81/1f/98811fda-7666-4596-a77f-776ad12efb77.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Этот небольшой вакуумный упаковщик с мощностью 90 Вт позволяет надежно герметизировать продукты, увеличивать срок их хранения и защищать от влаги и посторонних запахов. Устройство имеет силу всасывания до 60 кПа, что обеспечивает быстрое и плотное удаление воздуха из упаковок. Идеально подходит для домашнего использования — хранения мяса, рыбы, сыра, овощей, сухих продуктов, а также для приготовления блюд на пару или по технологии sous-vide. Максимальная длина шва запайки составляет 25 см.&amp;lt;/p&amp;gt;
+  
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Основные преимущества&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Мощность 90 Вт гарантирует экономное потребление электроэнергии при стабильной работе.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Компактный и стильный корпус занимает минимум места на кухне.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Интуитивно понятное управление с несколькими режимами работы.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Обеспечивает сохранение свежести, вкусовых качеств и полезных свойств продуктов.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+  
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технические характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;table&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Мощность&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;90 Вт&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Количество режимов&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;4&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Время запайки&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;15-25 сек.&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Материал корпуса&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;ABS-пластик&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Длина электрошнура&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;90 см&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Размеры&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;33 × 7,5 × 5 см&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Вес&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;600 г&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+      <description lang="ua">&amp;lt;div&amp;gt;
+  &amp;lt;p&amp;gt;Цей невеликий вакуумний пакувальник із потужністю 90 Вт дозволяє надійно герметизувати продукти, збільшувати термін їх зберігання та захищати від вологи і сторонніх запахів. Пристрій має силу всмоктування до 60 кПа, що забезпечує швидке і щільне видалення повітря з упаковок. Ідеально підходить для домашнього використання — зберігання м’яса, риби, сиру, овочів, сухих продуктів, а також для приготування страв на пару чи за технологією sous-vide. Максимальна довжина шва запаювання становить 25 см.&amp;lt;/p&amp;gt;
+  
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Основні переваги&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;Потужність 90 Вт гарантує економне споживання електроенергії при стабільній роботі.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Компактний і стильний корпус займає мінімум місця на кухні.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Інтуїтивно зрозуміле керування з кількома режимами роботи.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Забезпечує збереження свіжості, смакових якостей і корисних властивостей продуктів.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+  
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технічні характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;table&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Потужність&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;90 Вт&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Кількість режимів&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;4&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Час запаювання&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;15-25 сек.&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Матеріал корпусу&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;ABS-пластик&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Довжина електрошнура&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;90 см&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Розміри&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;33 × 7,5 × 5 см&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Вага&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;600 г&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/table&amp;gt;
+&amp;lt;/div&amp;gt;</description>
+      <vendor code="8e63515f2a6d4af99e618fac825d7fca">LUGI</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Потужність" paramcode="103">90</param>
+      <param name="Довжина шва запаювання" paramcode="742">250</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Керування" paramcode="10900" valuecode="3453e416513cbf1b28a659904d9c37e2">механічне</param>
+      <param name="Бренд" paramcode="brand" valuecode="8e63515f2a6d4af99e618fac825d7fca">LUGI</param>
+      <param name="Матеріал корпусу" paramcode="106" valuecode="cae20eb7b306775054bdd4ac9a507644">пластик</param>
+      <param name="Режими роботи" paramcode="13357" valuecode="cc33e03570d1de98fefa62305d019104,cc77d73b07e8f24947009d0ff1af58f9">вакуумування сухих продуктів,вакуумування вологих продуктів</param>
+      <param name="Особливості" paramcode="130" valuecode="8e8fe3d4db4a0745964b4ad458b9fe61,4fc29e36905b5dfe4ce7c149cb099f3d">дисплей,індикація</param>
+      <param name="Довжина мережевого шнура" paramcode="109">1</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Вакууматор для сухих та вологих продуктів 90 Вт 10 пакетів у комплекті, ментоловий</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Вакууматор для сухих и влажных продуктов 90 Вт 10 пакетов в комплекте, ментоловый</param>
+      <param name="Додаткові характеристики" paramcode="2771" lang="ua">Цей компактний вакууматор потужністю 90 Вт допоможе надійно упаковати продукти, продовжити термін придатності та захистити від вологи та сторонніх запахів. Пристрій забезпечує силу всмоктування до 60 кПа - цього достатньо для швидкого та щільного видалення повітря з пакетів. Ідеальний для домашнього використання: зберігання м'яса, риби, сиру, овочів, сухих продуктів та приготування продуктів на пару/sous-vide. Довжина шва запаювання – 25 см</param>
+      <param name="Додаткові характеристики" paramcode="2771" lang="ru">Этот компактный вакууматор мощностью 90 Вт поможет надежно упаковать продукты, продлить срок годности и защитить от влаги и посторонних запахов. Устройство обеспечивает силу всасывания до 60 кПа - этого достаточно для быстрого и плотного удаления воздуха из пакетов. Идеально для домашнего использования: хранение мяса, рыбы, сыра, овощей, сухих продуктов и приготовления продуктов на пару/sous-vide. Длина шва запаивания – 25 см</param>
+      <param name="Додаткова гарантія" paramcode="776" valuecode="1679091c5a880faf6fb5e6087eb1b2dc">6 міс.</param>
+      <param name="Колір виробника" paramcode="78" valuecode="rty37clq">бірюзовий</param>
+      <param name="Глибина упаковки" paramcode="length">450.0</param>
       <param name="Висота упаковки" paramcode="height">150.0</param>
-      <param name="Ширина упаковки" paramcode="width">75.0</param>
-      <param name="Вага упаковки" paramcode="weight">350.0</param>
+      <param name="Ширина упаковки" paramcode="width">250.0</param>
+      <param name="Вага упаковки" paramcode="weight">1600.0</param>
+    </offer>
+    <offer id="b-HP-11-14" available="true">
+      <price>1849</price>
+      <price_old>2219</price_old>
+      <category code="8735">Вакуумні пакувальники</category>
+      <attribute_set code="8735">Вакуумні пакувальники</attribute_set>
+      <name lang="ru">Вакууматор кухонный для сухих и влажных продуктов 120 Вт 10 пакетов Черный (HP-11-14)</name>
+      <name lang="ua">Вакууматор кухонний для сухих та вологих продуктів 120 Вт 10 пакетів Чорний (HP-11-14)</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/0f/b9/ff/0fb9ffc5-f6bc-4853-bc5d-efd9e371c95b.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/23/a5/b5/23a5b5f8-811f-4edf-86b3-4391bb31e2b3.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/b2/a6/4c/b2a64ca4-9d24-4056-bcab-86b0ba3604f7.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/9e/51/4d/9e514d1c-ce53-4d42-b233-14049fb3c946.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/10/9f/14/109f144a-df5f-4fbf-aba8-3c3d2baae84f.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/cf/32/46/cf324652-2d05-4090-8030-c995ef4d1e84.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/72/07/4b/72074bd4-108e-4782-857a-3939b637a168.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/22/c9/c0/22c9c01b-cbe9-4f90-bdb3-71187171da4f.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Вакуумный упаковщик Yiwu 120 Вт&amp;lt;/b&amp;gt; — это многофункциональное устройство для вакуумирования как сухих, так и влажных продуктов. Он оснащён сенсорной панелью управления, дисплеем и встроенным ножом для обрезки пакетов. Устройство имеет &amp;lt;b&amp;gt;5 режимов работы&amp;lt;/b&amp;gt;, что позволяет выбрать лучший вариант для разных видов пищи: мяса, рыбы, овощей, фруктов, круп и готовых блюд. Максимальная длина шва составляет 31 см, что подходит для большинства стандартных пакетов.&amp;lt;/p&amp;gt;
+
+&amp;lt;b&amp;gt;Основные преимущества и функции вакууматора Yiwu 120 Вт:&amp;lt;/b&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Пять режимов работы:&amp;lt;/b&amp;gt; оптимальные настройки для сухих, влажных и нежных продуктов.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Мощность 120 Вт:&amp;lt;/b&amp;gt; обеспечивает стабильное и быстрое вакуумирование.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Длина шва 310 мм:&amp;lt;/b&amp;gt; позволяет герметично запаивать пакеты шириной до 31 см.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Сенсорное управление и дисплей:&amp;lt;/b&amp;gt; обеспечивают простоту использования.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Интегрированный резак для пакетов:&amp;lt;/b&amp;gt; быстро обрезает плёнку нужного размера.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактный корпус:&amp;lt;/b&amp;gt; удобно хранить в кухонном шкафу или ящике.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Всасывающая сила до –60 кПа:&amp;lt;/b&amp;gt; эффективно удаляет воздух из пакета.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Подходит для технологии sous-vide:&amp;lt;/b&amp;gt; сохраняет вкус и полезные свойства продуктов.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;b&amp;gt;Технические характеристики вакууматора Yiwu 120 Вт:&amp;lt;/b&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Назначение:&amp;lt;/b&amp;gt; бытовой вакууматор.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Мощность:&amp;lt;/b&amp;gt; 120 Вт.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Количество режимов:&amp;lt;/b&amp;gt; 5.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальная длина шва:&amp;lt;/b&amp;gt; 310 мм.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип управления:&amp;lt;/b&amp;gt; сенсорное.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Материал корпуса:&amp;lt;/b&amp;gt; ABS-пластик.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Длина кабеля:&amp;lt;/b&amp;gt; 90 см.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Габариты:&amp;lt;/b&amp;gt; 35×11×5 см.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вес:&amp;lt;/b&amp;gt; 0,9 кг.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Цвет:&amp;lt;/b&amp;gt; чёрный.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Состояние:&amp;lt;/b&amp;gt; новый.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;b&amp;gt;Комплектация:&amp;lt;/b&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вакууматор Yiwu 120 Вт — 1 единица.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Пакеты для вакуумирования — 10 штук.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Встроенный резак для пакетов — 1 штука.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Инструкция по эксплуатации — 1 экземпляр.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка — 1 единица.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>
+      <description lang="ua">&amp;lt;div&amp;gt;
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Вакуумний пакувальник Yiwu 120 Вт&amp;lt;/b&amp;gt; — це багатофункціональний пристрій для вакуумування як сухих, так і вологих продуктів. Він оснащений сенсорною панеллю управління, дисплеєм та вбудованим ножем для обрізання пакетів. Пристрій має &amp;lt;b&amp;gt;5 режимів роботи&amp;lt;/b&amp;gt;, що дозволяє вибрати найкращий варіант для різних видів їжі: м’яса, риби, овочів, фруктів, круп та готових страв. Максимальна довжина шва становить 31 см, що підходить для більшості стандартних пакетів.&amp;lt;/p&amp;gt;
+
+  &amp;lt;b&amp;gt;Основні переваги та функції вакууматора Yiwu 120 Вт:&amp;lt;/b&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;П’ять режимів роботи:&amp;lt;/b&amp;gt; оптимальні налаштування для сухих, вологих та ніжних продуктів.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Потужність 120 Вт:&amp;lt;/b&amp;gt; забезпечує стабільне та швидке вакуумування.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Довжина шва 310 мм:&amp;lt;/b&amp;gt; дозволяє герметично запаювати пакети шириною до 31 см.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Сенсорне управління та дисплей:&amp;lt;/b&amp;gt; забезпечують простоту використання.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Інтегрований різак для пакетів:&amp;lt;/b&amp;gt; швидко обрізає плівку потрібного розміру.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Компактний корпус:&amp;lt;/b&amp;gt; зручно зберігати в кухонній шафі або шухляді.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Всмоктувальна сила до –60 кПа:&amp;lt;/b&amp;gt; ефективно видаляє повітря з пакета.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Підходить для технології sous-vide:&amp;lt;/b&amp;gt; зберігає смак і корисні властивості продуктів.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+
+  &amp;lt;b&amp;gt;Технічні характеристики вакууматора Yiwu 120 Вт:&amp;lt;/b&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Призначення:&amp;lt;/b&amp;gt; побутовий вакууматор.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Потужність:&amp;lt;/b&amp;gt; 120 Вт.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Кількість режимів:&amp;lt;/b&amp;gt; 5.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Максимальна довжина шва:&amp;lt;/b&amp;gt; 310 мм.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Тип управління:&amp;lt;/b&amp;gt; сенсорне.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Матеріал корпусу:&amp;lt;/b&amp;gt; ABS-пластик.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Довжина кабелю:&amp;lt;/b&amp;gt; 90 см.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Габарити:&amp;lt;/b&amp;gt; 35×11×5 см.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вага:&amp;lt;/b&amp;gt; 0,9 кг.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Колір:&amp;lt;/b&amp;gt; чорний.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Стан:&amp;lt;/b&amp;gt; новий.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+
+  &amp;lt;b&amp;gt;Комплектація:&amp;lt;/b&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вакууматор Yiwu 120 Вт — 1 одиниця.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Пакети для вакуумування — 10 штук.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Вбудований різак для пакетів — 1 штука.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Інструкція з експлуатації — 1 примірник.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;&amp;lt;b&amp;gt;Упаковка — 1 одиниця.&amp;lt;/b&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;</description>
+      <vendor code="7atgh3igtya9prbi">YIWU</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Потужність" paramcode="103">120</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Довжина шва запаювання" paramcode="742">310</param>
+      <param name="Керування" paramcode="10900" valuecode="e09658bd2c26e61b404d2b761f2e2a97">сенсорне</param>
+      <param name="Тип пакета" paramcode="10286" valuecode="a631e57b886e20a5981912961d715b4f">гофровані</param>
+      <param name="Бренд" paramcode="brand" valuecode="7atgh3igtya9prbi">YIWU</param>
+      <param name="Матеріал корпусу" paramcode="106" valuecode="cae20eb7b306775054bdd4ac9a507644">пластик</param>
+      <param name="Режими роботи" paramcode="13357" valuecode="cc33e03570d1de98fefa62305d019104,cc77d73b07e8f24947009d0ff1af58f9,e588df1a65f1eaf6a13b6fa385963f40,d5088f6fc34a7c412628da604fd2e902">вакуумування сухих продуктів,вакуумування вологих продуктів,запаювання без вакуумізації,створення вакууму у спеціальних контейнерах</param>
+      <param name="Особливості" paramcode="130" valuecode="5a4f8c558e334d0c6ba70161981eea35,9b4961b319fdd7e5074c836262508d4b,8e8fe3d4db4a0745964b4ad458b9fe61,4fc29e36905b5dfe4ce7c149cb099f3d">вбудований ніж,регулювання ступеня вакуумування,дисплей,індикація</param>
+      <param name="Висота" paramcode="110">5</param>
+      <param name="Ширина" paramcode="111">35</param>
+      <param name="Глибина" paramcode="112">11</param>
+      <param name="Вага" paramcode="762">0.9</param>
+      <param name="Довжина мережевого шнура" paramcode="109">0.9</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Вакууматор Yiwu 120 Вт — 1 шт.
+Пакети для вакуумування — 10 шт.
+Вбудований різак для пакетів — 1 шт.
+Інструкція — 1 шт.
+Упаковка — 1 шт.</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Вакууматор Yiwu 120 Вт — 1 шт.
+Пакеты для вакуумирования — 10 шт.
+Встроенный резак для пакетов — 1 шт.
+Инструкция — 1 шт.
+Упаковка — 1 шт.</param>
+      <param name="Додаткові характеристики" paramcode="2771" lang="ua">Мережевий вакууматор для сухих та вологих продуктів.
+5 режимів роботи: для сухих, вологих і делікатних продуктів.
+Потужність 120 Вт: стабільна робота та швидке вакуумування.
+Довжина шва 310 мм: підходить для пакетів шириною до 31 см.
+Сенсорне керування + дисплей: зручність у використанні.
+Вбудований різак для пакетів: швидке нарізання плівки потрібної довжини.
+Компактний дизайн: легко зберігати у кухонній шухляді.
+Сила всмоктування: до –60 кПа (ефективне видалення повітря).
+Підходить для sous‑vide: зберігає смак і поживні властивості продуктів.</param>
+      <param name="Додаткові характеристики" paramcode="2771" lang="ru">Сетевой вакууматор для сухих и влажных продуктов.  
+5 режимов работы: для сухих, влажных и деликатных продуктов.  
+Мощность 120 Вт: стабильная работа и быстрое вакуумирование.  
+Длина шва 310 мм: подходит для пакетов шириной до 31 см.  
+Сенсорное управление + дисплей: удобство в использовании.  
+Встроенный резак для пакетов: быстрое нарезание пленки нужной длины.  
+Компактный дизайн: легко хранить в кухонном ящике.  
+Сила всасывания: до –60 кПа (эффективное удаление воздуха).  
+Подходит для sous-vide: сохраняет вкус и питательные свойства продуктов.</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+      <param name="Глибина упаковки" paramcode="length">450.0</param>
+      <param name="Висота упаковки" paramcode="height">150.0</param>
+      <param name="Ширина упаковки" paramcode="width">250.0</param>
+      <param name="Вага упаковки" paramcode="weight">1600.0</param>
+    </offer>
+    <offer id="b-HP-11-18" available="true">
+      <price>1749</price>
+      <price_old>2099</price_old>
+      <category code="8735">Вакуумні пакувальники</category>
+      <attribute_set code="8735">Вакуумні пакувальники</attribute_set>
+      <name lang="ru">Вакууматор Vacuum Sealer для влажных и сухих продуктов 120 Вт 10 пакетов Белый (HP-11-18)</name>
+      <name lang="ua">Вакууматор Vacuum Sealer для вологих та сухих продуктів 120 Вт 10 пакетів Білий (HP-11-18)</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/01/af/16/01af1605-e036-4646-85d5-08274100a54e.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/33/e5/40/33e54022-e59b-4bf3-aba4-0c991a0f8373.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/94/4c/cc/944cccd2-16fe-451c-839b-9cd8285ee173.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/37/26/e4/3726e45f-41ed-4398-b9c0-a42c7e58c49d.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/b5/c4/02/b5c4028e-82ab-49ad-b2b1-968155f6530a.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Настольный вакууматор с сенсорной панелью, который отличается компактностью и современным дизайном. Идеально подходит для домашнего использования, обеспечивая вакуумную упаковку и герметичное запаивание продуктов для сохранения свежести и замораживания. Максимальная длина шва запаивания составляет 31 см, что соответствует большинству стандартных вакуумных пакетов.&amp;lt;/p&amp;gt;
+  
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Преимущества устройства&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Надежное удаление воздуха для продления срока хранения пищевых продуктов.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Несколько режимов работы, адаптированных для разных типов продуктов: влажных, сухих и мелких.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Интуитивно понятное управление с помощью сенсорной панели.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Компактные габариты, позволяющие удобно разместить устройство на кухне.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Подходит для вакуумирования мяса, рыбы, овощей, круп и других продуктов.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+  
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Рекомендации по эксплуатации&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Перед запаиванием убедитесь, что края пакета чистые и сухие для лучшей герметизации.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Не вакуумируйте горячие продукты — дайте им остыть до комнатной температуры.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;При обработке жидких или очень влажных продуктов используйте специальный режим Wet или немного заморозьте продукты, чтобы избежать попадания жидкости в насос.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+  
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технические характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;table&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Мощность&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;120 Вт&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Количество режимов&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;5&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Материал корпуса&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;ABS-пластик&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Длина электрошнура&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;90 см&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Размеры&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;35*11*5 см&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+  &amp;lt;tr&amp;gt;
+    &amp;lt;td&amp;gt;Вес&amp;lt;/td&amp;gt;
+    &amp;lt;td&amp;gt;900 г&amp;lt;/td&amp;gt;
+  &amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;</description>
+      <description lang="ua">&amp;lt;div&amp;gt;
+  &amp;lt;p&amp;gt;Настільний вакууматор з сенсорною панеллю, який відзначається компактністю та сучасним дизайном. Ідеально підходить для домашнього використання, забезпечуючи вакуумне пакування та герметичне запаювання продуктів для збереження свіжості та заморожування. Максимальна довжина шва запаювання становить 31 см, що відповідає більшості стандартних вакуумних пакетів.&amp;lt;/p&amp;gt;
+  
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Переваги пристрою&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;Надійне видалення повітря для подовження терміну зберігання харчових продуктів.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Декілька режимів роботи, адаптованих для різних типів продуктів: вологих, сухих та дрібних.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Інтуїтивно зрозуміле керування за допомогою сенсорної панелі.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Компактні габарити, що дозволяють зручно розмістити пристрій на кухні.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Підходить для вакуумування м’яса, риби, овочів, круп та інших продуктів.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+  
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Рекомендації з експлуатації&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;Перед запаюванням переконайтеся, що краї пакета чисті та сухі для кращої герметизації.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;Не вакуумуйте гарячі продукти — дайте їм охолонути до кімнатної температури.&amp;lt;/li&amp;gt;
+    &amp;lt;li&amp;gt;При обробці рідких або дуже вологих продуктів використовуйте спеціальний режим Wet або трохи заморозьте продукти, щоб уникнути попадання рідини в насос.&amp;lt;/li&amp;gt;
+  &amp;lt;/ul&amp;gt;
+  
+  &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технічні характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+  &amp;lt;table&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Потужність&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;120 Вт&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Кількість режимів&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;5&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Матеріал корпусу&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;ABS-пластик&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Довжина електрошнура&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;90 см&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Розміри&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;35*11*5 см&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+    &amp;lt;tr&amp;gt;
+      &amp;lt;td&amp;gt;Вага&amp;lt;/td&amp;gt;
+      &amp;lt;td&amp;gt;900 г&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+  &amp;lt;/table&amp;gt;
+&amp;lt;/div&amp;gt;</description>
+      <vendor code="8e63515f2a6d4af99e618fac825d7fca">LUGI</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Потужність" paramcode="103">120</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Довжина шва запаювання" paramcode="742">310</param>
+      <param name="Керування" paramcode="10900" valuecode="b19b1539c13218c69a4a212be5ecbd44">електронне</param>
+      <param name="Бренд" paramcode="brand" valuecode="8e63515f2a6d4af99e618fac825d7fca">LUGI</param>
+      <param name="Матеріал корпусу" paramcode="106" valuecode="cae20eb7b306775054bdd4ac9a507644">пластик</param>
+      <param name="Режими роботи" paramcode="13357" valuecode="cc33e03570d1de98fefa62305d019104,cc77d73b07e8f24947009d0ff1af58f9">вакуумування сухих продуктів,вакуумування вологих продуктів</param>
+      <param name="Особливості" paramcode="130" valuecode="8e8fe3d4db4a0745964b4ad458b9fe61,4fc29e36905b5dfe4ce7c149cb099f3d">дисплей,індикація</param>
+      <param name="Довжина мережевого шнура" paramcode="109">1.1</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Вакууматор Vacuum Sealer для сухих та вологих продуктів 120 Вт 10 пакетів у комплекті, білий</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Вакууматор Vacuum Sealer для сухих и влажных продуктов 120 Вт 10 пакетов в комплекте, белый</param>
+      <param name="Додаткові характеристики" paramcode="2771" lang="ua">Компактний та стильний настільний вакууматор із сенсорною панеллю управління. Підходить для домашнього використання: вакуумування та герметичної запаювання харчових продуктів для зберігання та заморозки. Довжина шва запаювання – 31 см, що підходить для більшості стандартних пакетів для вакуумування</param>
+      <param name="Додаткові характеристики" paramcode="2771" lang="ru">Компактный и стильный настольный вакууматор с сенсорной панелью управления. Подходит для домашнего использования: вакуумирование и герметичное запаивание пищевых продуктов для хранения и заморозки. Длина шва запаивания – 31 см, что подходит для большинства стандартных пакетов для вакуумирования.</param>
+      <param name="Додаткова гарантія" paramcode="776" valuecode="1679091c5a880faf6fb5e6087eb1b2dc">6 міс.</param>
+      <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+      <param name="Глибина упаковки" paramcode="length">450.0</param>
+      <param name="Висота упаковки" paramcode="height">150.0</param>
+      <param name="Ширина упаковки" paramcode="width">250.0</param>
+      <param name="Вага упаковки" paramcode="weight">1600.0</param>
+    </offer>
+    <offer id="b-SK-SH-1083" available="true">
+      <price>819</price>
+      <price_old>983</price_old>
+      <category code="98">Електрочайники</category>
+      <attribute_set code="98">Електрочайники</attribute_set>
+      <name lang="ru">Электрочайник Sokany SK-SH-1083 1,5 л 1100 Вт</name>
+      <name lang="ua">Електрочайник Sokany SK-SH-1083 1,5 л 1100 Вт</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/07/15/65/071565ac-3c11-4efb-8e82-a1f24e68a966.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/06/ad/d5/06add56e-b239-4633-a33d-2e7c4335217a.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/3b/0a/f6/3b0af675-6065-459b-999f-1807891a86f9.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/0f/02/ed/0f02ed31-d22d-4fc4-a83f-53a9a34a4785.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/c6/18/7c/c6187ce7-3763-4673-b6ce-93ca66b1e777.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/da/7f/24/da7f2408-f00b-440d-bc52-3212092c3a06.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/9c/76/f4/9c76f433-9c79-4d44-9566-e66fa3010e60.png</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/da/ca/77/daca7764-1288-4b16-8dac-832a1b6af4eb.png</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Электрический чайник SOKANY SK-SH-1083 выделяется компактными размерами и надежностью, сочетая современный вид с удобством в использовании. Благодаря мощности 1100 Вт он быстро доводит воду до кипения, что делает его практичным для ежедневного применения. Объем 1,5 литра оптимален для небольших семей или индивидуального пользования. Нагревательный элемент в виде закрытой спирали из нержавеющей стали обеспечивает равномерное распределение тепла и длительный срок службы.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Корпус изготовлен из качественной нержавеющей стали, что гарантирует прочность и легкость в уходе. Устройство оснащено фильтром для очистки от накипи и индикатором работы, что позволяет легко отслеживать состояние чайника. С высотой 20 см и весом 0,68 кг этот чайник удобен для хранения и транспортировки, а кабель длиной 55 см обеспечивает комфортное размещение на кухонной поверхности.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;SOKANY SK-SH-1083 станет отличным выбором для тех, кто ценит компактность, функциональность и стильный дизайн. Он предлагает комфорт в повседневном использовании, качественные материалы и простоту ухода.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технические характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Мощность: 1100 Вт&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Объем: 1,5 л&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Материал корпуса: нержавеющая сталь&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Тип нагревательного элемента: закрытая спираль&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Фильтр: от накипи&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Индикатор работы: есть&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Высота: 20 см&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Вес: 0,68 кг&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Длина кабеля: 55 см&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>
+      <description lang="ua">&amp;lt;div&amp;gt;
+&amp;lt;p&amp;gt;Електричний чайник SOKANY SK-SH-1083 вирізняється компактними розмірами та надійністю, поєднуючи сучасний вигляд із зручністю у використанні. Завдяки потужності 1100 Вт він швидко доводить воду до кипіння, що робить його практичним для щоденного застосування. Об’єм 1,5 літра оптимальний для невеликих сімей або індивідуального користування. Нагрівальний елемент у вигляді закритої спіралі з нержавіючої сталі забезпечує рівномірний розподіл тепла та тривалий термін служби.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Корпус виготовлений із якісної нержавіючої сталі, що гарантує міцність і легкість у догляді. Пристрій оснащено фільтром для очищення від накипу та індикатором роботи, що дозволяє легко відслідковувати стан чайника. З висотою 20 см і вагою 0,68 кг цей чайник зручний для зберігання і транспортування, а кабель довжиною 55 см забезпечує комфортне розміщення на кухонній поверхні.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;SOKANY SK-SH-1083 стане відмінним вибором для тих, хто цінує компактність, функціональність і стильний дизайн. Він пропонує комфорт у повсякденному використанні, якісні матеріали та простоту догляду.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технічні характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Потужність: 1100 Вт&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Об’єм: 1,5 л&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Матеріал корпусу: нержавіюча сталь&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Тип нагрівального елемента: закрита спіраль&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Фільтр: від накипу&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Індикатор роботи: є&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Висота: 20 см&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Вага: 0,68 кг&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Довжина кабелю: 55 см&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;</description>
+      <vendor code="e486b77980ee40f0ad6ab506108a229f">Sokany</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Потужність" paramcode="103">1100</param>
+      <param name="Гарантія" paramcode="113">3</param>
+      <param name="Матеріал колби" paramcode="9850" valuecode="0c194001646da53792ca352b6f0baaa6">метал</param>
+      <param name="Тип" paramcode="9635" valuecode="5499c75698008be2368c9da5626ebc56">звичайний</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="183abcd6937b3097a445a0826dcf8fe9">нержавіюча сталь</param>
+      <param name="Бренд" paramcode="brand" valuecode="e486b77980ee40f0ad6ab506108a229f">Sokany</param>
+      <param name="Оснащення" paramcode="9639" valuecode="72dd99be03b430ded7f30f2f99289372,5842dad73188458528a68d6f8af9df79,0b3e9c6f6c62d11a114bda37d71571ed">нековзні ніжки,блокування кришки,фільтр для води</param>
+      <param name="Довжина мережевого шнура" paramcode="109">0.55</param>
+      <param name="Об'єм" paramcode="104">1.5</param>
+      <param name="Колір виробника" paramcode="78" valuecode="660">нержавіюча сталь</param>
+      <param name="Безпека" paramcode="11199" valuecode="8173c755341051331342b266252f3d07,35d93acca1e1325f5fb39a77a025b1ce,9612847b5180557ee147d915f9d5e82a,0d6cfdbff6893af97dd4ed87533bc9d2">автоматичне відключення,захист від перегріву,відключення без води,відключення при знятті з бази</param>
+      <param name="Комплектація" paramcode="767" lang="ua">Електрочайник Sokany SK-SH-1083 на 1.5 л 1100 Вт</param>
+      <param name="Комплектація" paramcode="767" lang="ru">Электрический чайник Sokany SK-SH-1083 на 1.5 л 1100 Вт</param>
+      <param name="Країна реєстрації бренду" paramcode="404" valuecode="chn">Китай</param>
+      <param name="Глибина упаковки" paramcode="length">250.0</param>
+      <param name="Висота упаковки" paramcode="height">300.0</param>
+      <param name="Ширина упаковки" paramcode="width">200.0</param>
+      <param name="Вага упаковки" paramcode="weight">2000.0</param>
+    </offer>
+    <offer id="b-SK-SH-1076R" available="true">
+      <price>1026</price>
+      <price_old>1231</price_old>
+      <category code="98">Електрочайники</category>
+      <attribute_set code="98">Електрочайники</attribute_set>
+      <name lang="ru">Электрочайник с защитой от перегрева Sokany SK-SH-1076 из нержавеющей стали и пластика на 1,7 л 2000 Вт Красный (147-107-SK-SH-1076R)</name>
+      <name lang="ua">Електрочайник із захистом від перегріву Sokany SK-SH-1076 з нержавіючої сталі та пластику на 1,7 л 2000 Вт Червоний (147-107-SK-SH-1076R)</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/ca/c8/cf/cac8cfa7-5695-4205-b65f-0bd371c0ca61.webp</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/7f/06/8a/7f068a9f-0cfb-4b82-91c3-a37859f56733.webp</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/4d/8d/74/4d8d74ff-5e1e-42d3-954e-b3075c7e6d95.webp</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/cb/ee/49/cbee4997-b7d0-419a-8270-ae9c0511c1e6.webp</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Электрочайник Sokany SK-SH-1076 объемом 1,7 л и мощностью 2000 Вт из нержавеющей стали, цвет — красный&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Модель электрочайника Sokany SK-SH-1076 сочетает в себе функциональность и комфорт, позволяя быстро вскипятить воду. Он станет гармоничным элементом любой кухни благодаря стильному дизайну. Устройство имеет оптимальный объем, подходящий для приготовления горячих напитков для всей семьи, оснащено дисковым нагревательным элементом и поворотной подставкой.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Корпус изготовлен из безопасных материалов, а чайник оснащен системой защиты от включения без воды. Эргономичная ручка не нагревается во время работы, что предотвращает ожоги. Подставка с прорезиненными ножками обеспечивает надежную устойчивость даже на скользких поверхностях, а закрытый нагревательный элемент способствует долговечности устройства и облегчает очистку от накипи.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технические характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Объем: 1,7 л&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Мощность: 2000 Вт&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Высота: 21 см&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Длина кабеля: 47 см&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Материал корпуса: нержавеющая сталь и пластик&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Тип нагревательного элемента: дисковый&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Дополнительные функции:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Автоматическое отключение при снятии с подставки&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Защита от работы без воды&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Система предотвращения перегрева&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;</description>
+      <description lang="ua">&amp;lt;div&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Електрочайник Sokany SK-SH-1076 об'ємом 1,7 л та потужністю 2000 Вт із нержавіючої сталі, колір — червоний&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Модель електрочайника Sokany SK-SH-1076 поєднує в собі функціональність і комфорт, дозволяючи швидко закип’ятити воду. Він стане гармонійним елементом будь-якої кухні завдяки стильному дизайну. Пристрій має оптимальний об’єм, що підходить для приготування гарячих напоїв для всієї сім’ї, оснащений дисковим нагрівальним елементом і поворотною підставкою.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Корпус виготовлений із безпечних матеріалів, а чайник оснащений системою захисту від увімкнення без води. Ергономічна ручка не нагрівається під час роботи, що запобігає опікам. Підставка з прогумованими ніжками забезпечує надійну стійкість навіть на слизьких поверхнях, а закритий нагрівальний елемент сприяє довговічності пристрою і полегшує очищення від накипу.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Технічні характеристики:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Об’єм: 1,7 л&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Потужність: 2000 Вт&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Висота: 21 см&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Довжина кабелю: 47 см&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Матеріал корпусу: нержавіюча сталь та пластик&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Тип нагрівального елемента: дисковий&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;b&amp;gt;Додаткові функції:&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;Автоматичне відключення при знятті з підставки&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Захист від роботи без води&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;Система запобігання перегріву&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&amp;lt;/div&amp;gt;</description>
+      <vendor code="e486b77980ee40f0ad6ab506108a229f">Sokany</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Потужність" paramcode="103">2000</param>
+      <param name="Тип" paramcode="9635" valuecode="5499c75698008be2368c9da5626ebc56">звичайний</param>
+      <param name="Матеріал колби" paramcode="9850" valuecode="0c194001646da53792ca352b6f0baaa6">метал</param>
+      <param name="Smart-керування" paramcode="9916" valuecode="c530d2112a3d5827c890671c8c32e7c1">без Smart-керування</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="c0ac579117df213cfe2a942ace8f1eca">червоний</param>
+      <param name="Бренд" paramcode="brand" valuecode="e486b77980ee40f0ad6ab506108a229f">Sokany</param>
+      <param name="Модель" paramcode="4351" lang="ua">SK-SH-1076</param>
+      <param name="Модель" paramcode="4351" lang="ru">СК-Ш-1076</param>
+      <param name="Тип нагрівального елемента" paramcode="9637" valuecode="2012d8712f0e66f1e1bfc201f8358dd5">прихований (диск)</param>
+      <param name="Оснащення" paramcode="9639" valuecode="bce6e4747165da99b2f1b6a57babf737">LED-підсвічування</param>
+      <param name="Довжина мережевого шнура" paramcode="109">0.47</param>
+      <param name="Об'єм" paramcode="104">1.7</param>
+      <param name="Колір виробника" paramcode="78" valuecode="5uooq3p5">червоний</param>
+      <param name="Безпека" paramcode="11199" valuecode="8173c755341051331342b266252f3d07,35d93acca1e1325f5fb39a77a025b1ce,9612847b5180557ee147d915f9d5e82a,0d6cfdbff6893af97dd4ed87533bc9d2">автоматичне відключення,захист від перегріву,відключення без води,відключення при знятті з бази</param>
+      <param name="Стінки" paramcode="4344" valuecode="7ba871a1b40095f2268ee87989a83d33">одинарні</param>
+      <param name="Країна реєстрації бренду" paramcode="404" valuecode="chn">Китай</param>
+      <param name="Функція підтримки температури" paramcode="4787" valuecode="8678a87c0f18eee0aa35e0e0f1b67f4c">без функції підтримки температури</param>
+      <param name="Глибина упаковки" paramcode="length">250.0</param>
+      <param name="Висота упаковки" paramcode="height">300.0</param>
+      <param name="Ширина упаковки" paramcode="width">200.0</param>
+      <param name="Вага упаковки" paramcode="weight">2000.0</param>
+    </offer>
+    <offer id="b-SK-SH-1076B" available="true">
+      <price>1026</price>
+      <price_old>1231</price_old>
+      <category code="98">Електрочайники</category>
+      <attribute_set code="98">Електрочайники</attribute_set>
+      <name lang="ru">Электрочайник Sokany SK-SH-1076 1,7 л 2000 Вт Зеленый (27968993)</name>
+      <name lang="ua">Електрочайник Sokany SK-SH-1076 1,7 л 2000 Вт Зелений (27968993)</name>
+      <picture>https://cdn.27.ua/sc--media--prod/default/d2/9e/70/d29e7049-8b91-49b7-a720-fef4820940df.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/a7/de/5c/a7de5c28-1997-4ec4-b91e-75048a58f364.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/e8/98/30/e89830a4-2802-4674-b442-2e64f0e1bded.jpg</picture>
+      <picture>https://cdn.27.ua/sc--media--prod/default/a8/11/77/a8117773-c5fd-4a81-b281-b5dc55452757.jpg</picture>
+      <description lang="ru">&amp;lt;p&amp;gt;Электрочайник Sokany SK-SH-1076 объемом 1,7 литра и мощностью 2000 Вт&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;Модель Sokany SK-SH-1076 сочетает в себе удобство, безопасность и современный вид. Благодаря вместимости 1,7 л он быстро кипятит воду, что позволяет приготовить несколько чашек чая или кофе — идеальный вариант для семейных вечеров или общения с друзьями. Мощность в 2000 Вт обеспечивает оперативный процесс нагрева.&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;Корпус чайника выполнен из нержавеющей стали в сочетании с термостойким пластиком, что гарантирует долговременную эксплуатацию и защиту от перегрева. Эргономичная ручка не нагревается во время работы, что исключает риск ожогов. Скрытый дисковый нагревательный элемент облегчает очистку от накипи и повышает гигиеничность устройства.&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;База с возможностью поворота на 360° позволяет устанавливать чайник в любом направлении, а резиновые ножки обеспечивают надежную устойчивость даже на скользких поверхностях кухни.&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;Основные преимущества:&amp;lt;/p&amp;gt; 
+&amp;lt;ul&amp;gt; 
+&amp;lt;li&amp;gt;Быстрое закипание воды благодаря мощности 2000 Вт&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Объем 1,7 л, подходящий для семейного использования&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Безопасная эксплуатация: автоматическое отключение, защита от перегрева и запуска без воды&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Современный дизайн, который гармонично вписывается в любой интерьер кухни&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Удобная поворотная основа с резиновыми ножками для устойчивости&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Скрытый дисковый нагревательный элемент, упрощающий уход&amp;lt;/li&amp;gt; 
+&amp;lt;/ul&amp;gt; 
+&amp;lt;p&amp;gt;Технические характеристики:&amp;lt;/p&amp;gt; 
+&amp;lt;ul&amp;gt; 
+&amp;lt;li&amp;gt;Объем: 1,7 л&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Мощность: 2000 Вт&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Материал корпуса: нержавеющая сталь и пластик&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Тип нагревательного элемента: дисковый, скрытый&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Высота: 21 см&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Диаметр: 11,5 см&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Длина шнура: 47 см&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Вес: 1,4 кг&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Функции:  
+  &amp;lt;ul&amp;gt; 
+    &amp;lt;li&amp;gt;Автоматическое отключение при закипании&amp;lt;/li&amp;gt; 
+    &amp;lt;li&amp;gt;Защита от включения без воды&amp;lt;/li&amp;gt; 
+    &amp;lt;li&amp;gt;Защита от перегрева&amp;lt;/li&amp;gt; 
+  &amp;lt;/ul&amp;gt; 
+&amp;lt;/li&amp;gt; 
+&amp;lt;/ul&amp;gt; 
+&amp;lt;p&amp;gt;Электрочайник Sokany SK-SH-1076 — это надежное и стильное устройство для ежедневного использования, которое обеспечивает безопасную и эффективную работу.&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;О бренде&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;Бренд Sokany принадлежит китайской компании Yiwu Mingge Electric Appliance, основанной в 2020 году. Несмотря на относительно короткий срок существования, компания достигла значительных успехов. Продукция бренда представлена на мировом рынке и включает:&amp;lt;/p&amp;gt; 
+&amp;lt;ul&amp;gt; 
+&amp;lt;li&amp;gt;аэрогрили-фритюрницы;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;ручные и стационарные блендеры;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;устройства для приготовления попкорна и сахарной ваты;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;вафельницы;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;пылесосы;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;отпариватели;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;электрические духовки;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;утюги;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;воскоплавы;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;электрогрили;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;кофеварки и другие бытовые приборы.&amp;lt;/li&amp;gt; 
+&amp;lt;/ul&amp;gt; 
+&amp;lt;p&amp;gt;Товары Sokany выделяются стильным дизайном, высоким качеством и инновационными технологиями, что делает их максимально удобными в использовании. Использование качественных материалов обеспечивает долговечность и безопасность устройств. Оптимальное соотношение стоимости и качества делает продукцию бренда доступной для широкой аудитории.&amp;lt;/p&amp;gt;</description>
+      <description lang="ua">&amp;lt;p&amp;gt;Електрочайник Sokany SK-SH-1076 об'ємом 1,7 літра та потужністю 2000 Вт&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;Модель Sokany SK-SH-1076 поєднує в собі зручність, безпеку та сучасний вигляд. Завдяки місткості 1,7 л він швидко кип’ятить воду, що дозволяє приготувати кілька чашок чаю або кави — ідеальний варіант для сімейних вечорів або спілкування з друзями. Потужність у 2000 Вт забезпечує оперативний процес нагрівання.&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;Корпус чайника виконаний із нержавіючої сталі в поєднанні з термостійким пластиком, що гарантує довготривалу експлуатацію та захист від перегріву. Ергономічна ручка не нагрівається під час роботи, що виключає ризик опіків. Прихований дисковий нагрівальний елемент полегшує очищення від накипу та підвищує гігієнічність пристрою.&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;База з можливістю повороту на 360° дозволяє встановлювати чайник у будь-якому напрямку, а гумові ніжки забезпечують надійну стійкість навіть на слизьких поверхнях кухні.&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;Основні переваги:&amp;lt;/p&amp;gt; 
+&amp;lt;ul&amp;gt; 
+&amp;lt;li&amp;gt;Швидке закипання води завдяки потужності 2000 Вт&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Об’єм 1,7 л, що підходить для сімейного користування&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Безпечна експлуатація: автоматичне вимкнення, захист від перегріву та запуску без води&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Сучасний дизайн, який гармонійно вписується в будь-який інтер’єр кухні&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Зручна поворотна основа з гумовими ніжками для стійкості&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Прихований дисковий нагрівальний елемент, що спрощує догляд&amp;lt;/li&amp;gt; 
+&amp;lt;/ul&amp;gt; 
+&amp;lt;p&amp;gt;Технічні характеристики:&amp;lt;/p&amp;gt; 
+&amp;lt;ul&amp;gt; 
+&amp;lt;li&amp;gt;Об’єм: 1,7 л&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Потужність: 2000 Вт&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Матеріал корпусу: нержавіюча сталь та пластик&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Тип нагрівального елемента: дисковий, прихований&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Висота: 21 см&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Діаметр: 11,5 см&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Довжина шнура: 47 см&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Вага: 1,4 кг&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;Функції:  
+  &amp;lt;ul&amp;gt; 
+    &amp;lt;li&amp;gt;Автоматичне вимкнення при закипанні&amp;lt;/li&amp;gt; 
+    &amp;lt;li&amp;gt;Захист від увімкнення без води&amp;lt;/li&amp;gt; 
+    &amp;lt;li&amp;gt;Захист від перегріву&amp;lt;/li&amp;gt; 
+  &amp;lt;/ul&amp;gt; 
+&amp;lt;/li&amp;gt; 
+&amp;lt;/ul&amp;gt; 
+&amp;lt;p&amp;gt;Електрочайник Sokany SK-SH-1076 — це надійний і стильний пристрій для щоденного використання, який забезпечує безпечну та ефективну роботу.&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;Про бренд&amp;lt;/p&amp;gt; 
+&amp;lt;p&amp;gt;Бренд Sokany належить китайській компанії Yiwu Mingge Electric Appliance, заснованій у 2020 році. Незважаючи на відносно короткий термін існування, компанія досягла значних успіхів. Продукція бренду представлена на світовому ринку та включає:&amp;lt;/p&amp;gt; 
+&amp;lt;ul&amp;gt; 
+&amp;lt;li&amp;gt;аерогрилі-фритюрниці;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;ручні та стаціонарні блендери;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;пристрої для приготування попкорну та солодкої вати;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;вафельниці;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;пилососи;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;відпарювачі;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;електричні духовки;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;праски;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;воскоплави;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;електрогрилі;&amp;lt;/li&amp;gt; 
+&amp;lt;li&amp;gt;кавоварки та інші побутові прилади.&amp;lt;/li&amp;gt; 
+&amp;lt;/ul&amp;gt; 
+&amp;lt;p&amp;gt;Товари Sokany вирізняються стильним дизайном, високою якістю та інноваційними технологіями, що робить їх максимально зручними у використанні. Використання якісних матеріалів забезпечує довговічність і безпеку пристроїв. Оптимальне співвідношення вартості та якості робить продукцію бренду доступною для широкої аудиторії.&amp;lt;/p&amp;gt;</description>
+      <vendor code="e486b77980ee40f0ad6ab506108a229f">Sokany</vendor>
+      <country_of_origin code="aut">Австрія</country_of_origin>
+      <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+      <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+      <param name="Потужність" paramcode="103">2000</param>
+      <param name="Матеріал колби" paramcode="9850" valuecode="0c194001646da53792ca352b6f0baaa6">метал</param>
+      <param name="Тип" paramcode="9635" valuecode="5499c75698008be2368c9da5626ebc56">звичайний</param>
+      <param name="Smart-керування" paramcode="9916" valuecode="c530d2112a3d5827c890671c8c32e7c1">без Smart-керування</param>
+      <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+      <param name="Бренд" paramcode="brand" valuecode="e486b77980ee40f0ad6ab506108a229f">Sokany</param>
+      <param name="Модель" paramcode="4351" lang="ua">SK-SH-1076</param>
+      <param name="Модель" paramcode="4351" lang="ru">СК-Ш-1076</param>
+      <param name="Тип нагрівального елемента" paramcode="9637" valuecode="2012d8712f0e66f1e1bfc201f8358dd5">прихований (диск)</param>
+      <param name="Оснащення" paramcode="9639" valuecode="bce6e4747165da99b2f1b6a57babf737">LED-підсвічування</param>
+      <param name="Довжина мережевого шнура" paramcode="109">0.47</param>
+      <param name="Додаткові характеристики" paramcode="9486" lang="ua">Об’єм 1,7 л; , Потужність: 2000 Вт; , Функції: автовідключення, захист від перегріву та увімкнення без води; , Сучасний дизайн</param>
+      <param name="Додаткові характеристики" paramcode="9486" lang="ru">Объем 1,7 л; Мощность: 2000 Вт; Функции: автоотключение, защита от перегрева и включения без воды; Современный дизайн</param>
+      <param name="Об'єм" paramcode="104">1.7</param>
+      <param name="Колір виробника" paramcode="78" valuecode="kd4hovsb">зелений</param>
+      <param name="Безпека" paramcode="11199" valuecode="8173c755341051331342b266252f3d07,35d93acca1e1325f5fb39a77a025b1ce,9612847b5180557ee147d915f9d5e82a">автоматичне відключення,захист від перегріву,відключення без води</param>
+      <param name="Висота" paramcode="110">21</param>
+      <param name="Вага" paramcode="762">1.4</param>
+      <param name="Країна реєстрації бренду" paramcode="404" valuecode="chn">Китай</param>
+      <param name="Глибина упаковки" paramcode="length">250.0</param>
+      <param name="Висота упаковки" paramcode="height">300.0</param>
+      <param name="Ширина упаковки" paramcode="width">200.0</param>
+      <param name="Вага упаковки" paramcode="weight">2000.0</param>
     </offer>
   </offers>
 </yml_catalog>
