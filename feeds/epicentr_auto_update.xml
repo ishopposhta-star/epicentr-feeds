@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-11-22 14:00">
+<yml_catalog date="2025-11-22 22:00">
   <shop>
     <offers>
       <offer id="b-LL1206" available="false">
@@ -4542,6 +4542,66 @@
       <offer id="b-X104" available="true">
         <price>1149</price>
         <price_old>1499</price_old>
+      </offer>
+      <offer id="b-8893AB" available="true">
+        <price>749</price>
+        <price_old>999</price_old>
+      </offer>
+      <offer id="b-8893AW" available="true">
+        <price>749</price>
+        <price_old>999</price_old>
+      </offer>
+      <offer id="b-D6BR" available="true">
+        <price>3599</price>
+        <price_old>4499</price_old>
+      </offer>
+      <offer id="b-PULSE5W" available="true">
+        <price>1099</price>
+        <price_old>1399</price_old>
+      </offer>
+      <offer id="b-SAP2L" available="true">
+        <price>749</price>
+        <price_old>999</price_old>
+      </offer>
+      <offer id="b-SWS8UO" available="true">
+        <price>1149</price>
+        <price_old>1499</price_old>
+      </offer>
+      <offer id="b-WJ801" available="true">
+        <price>5499</price>
+        <price_old>6899</price_old>
+      </offer>
+      <offer id="b-SK-187" available="true">
+        <price>3699</price>
+        <price_old>4699</price_old>
+      </offer>
+      <offer id="b-SK-124" available="true">
+        <price>1599</price>
+        <price_old>1999</price_old>
+      </offer>
+      <offer id="b-HP-11-15M" available="true">
+        <price>799</price>
+        <price_old>999</price_old>
+      </offer>
+      <offer id="b-HP-11-14" available="true">
+        <price>1849</price>
+        <price_old>2399</price_old>
+      </offer>
+      <offer id="b-HP-11-18" available="true">
+        <price>1849</price>
+        <price_old>2399</price_old>
+      </offer>
+      <offer id="b-SK-SH-1083" available="true">
+        <price>899</price>
+        <price_old>1199</price_old>
+      </offer>
+      <offer id="b-SK-SH-1076R" available="true">
+        <price>1049</price>
+        <price_old>1399</price_old>
+      </offer>
+      <offer id="b-SK-SH-1076B" available="true">
+        <price>1049</price>
+        <price_old>1399</price_old>
       </offer>
     </offers>
   </shop>
