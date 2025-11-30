@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2025-11-30 21:47">
+<yml_catalog date="2025-11-30 22:07">
   <shop>
     <name>TovarLand</name>
     <url>https://tovarland.prom.ua</url>
     <currencies>
       <currency id="UAH" rate="1" />
     </currencies>
-    <categories>
-      <category id="1">Нові товари</category>
-    </categories>
+    <categories />
     <offers>
       <offer id="02550/1" available="true" in_stock="true" selling_type="r">
         <name>Будиночок зі шторками 120*129*129см, кор. 130*86*33см, ТМ Долоні, Україна</name>
