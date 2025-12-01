@@ -1,1 +1,110 @@
-halo
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2025-12-01 12:06">
+  <shop>
+    <name>Julka.Shop</name>
+    <url>https://julka.shop/</url>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Крани, змішувачі</category>
+    </categories>
+    <offers>
+      <offer id="2ce6a383-ef8d-4651-8bbb-90ea8b62a3ae" available="true" in_stock="true" selling_type="r">
+        <name>Змішувач для кухні Armata SUS-011 Refl.Black із силіконовим виливом (вилив чорний) (CH6480)</name>
+        <name_ua>Змішувач для кухні Armata SUS-011 Refl.Black із силіконовим виливом (вилив чорний) (CH6480)</name_ua>
+        <categoryId>1</categoryId>
+        <portal_category_id>130103</portal_category_id>
+        <price>749</price>
+        <oldprice>1118</oldprice>
+        <currencyId>UAH</currencyId>
+        <vendor>ARMATA</vendor>
+        <vendorCode>jO-CH6480</vendorCode>
+        <country>Китай</country>
+        <picture>https://ol.partners/Products/Photo/74D525B9-4B54-4FD8-8461-29F781D7F69A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2ce6a383-ef8d-4651-8bbb-90ea8b62a3ae/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2ce6a383-ef8d-4651-8bbb-90ea8b62a3ae/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2ce6a383-ef8d-4651-8bbb-90ea8b62a3ae/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2ce6a383-ef8d-4651-8bbb-90ea8b62a3ae/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2ce6a383-ef8d-4651-8bbb-90ea8b62a3ae/image_01.jpg</picture>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <description_ua>&lt;![CDATA[]]&gt;</description_ua>
+      </offer>
+      <offer id="677ad245-8a46-4e16-a1f8-71c2fad4e3df" available="true" in_stock="true" selling_type="r">
+        <name>Змішувач для кухні Armata SUS-011 REFL.WHITE з силіконовим виливом, з нержавіючої сталі (CH6562)</name>
+        <name_ua>Змішувач для кухні Armata SUS-011 REFL.WHITE з силіконовим виливом, з нержавіючої сталі (CH6562)</name_ua>
+        <categoryId>1</categoryId>
+        <portal_category_id>130103</portal_category_id>
+        <price>849</price>
+        <oldprice>1268</oldprice>
+        <currencyId>UAH</currencyId>
+        <vendor>ARMATA</vendor>
+        <vendorCode>jO-CH6562</vendorCode>
+        <country>Китай</country>
+        <picture>https://ol.partners/Products/Photo/A46BBBE7-EC18-4BB4-84CF-DA9A8D79B01C</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/677ad245-8a46-4e16-a1f8-71c2fad4e3df/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/677ad245-8a46-4e16-a1f8-71c2fad4e3df/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/677ad245-8a46-4e16-a1f8-71c2fad4e3df/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/677ad245-8a46-4e16-a1f8-71c2fad4e3df/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/677ad245-8a46-4e16-a1f8-71c2fad4e3df/image_01.jpg</picture>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <description_ua>&lt;![CDATA[]]&gt;</description_ua>
+      </offer>
+      <offer id="014ddc49-ed77-4ef1-adab-008613e1bf7a" available="true" in_stock="true" selling_type="r">
+        <name>Змішувач для кухні Armata SUS-011 Refl.Gray (нерж. сталь) (CH6184)</name>
+        <name_ua>Змішувач для кухні Armata SUS-011 Refl.Gray (нерж. сталь) (CH6184)</name_ua>
+        <categoryId>1</categoryId>
+        <portal_category_id>130103</portal_category_id>
+        <price>749</price>
+        <oldprice>1118</oldprice>
+        <currencyId>UAH</currencyId>
+        <vendor>ARMATA</vendor>
+        <vendorCode>jO-CH6184</vendorCode>
+        <country>Китай</country>
+        <picture>https://ol.partners/Products/Photo/681F171D-D148-4C0D-8A4D-E8760EF81420</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/014ddc49-ed77-4ef1-adab-008613e1bf7a/CH6184-ARMATA-SUS-011-REFL.GRAY-3.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/014ddc49-ed77-4ef1-adab-008613e1bf7a/CH6184-ARMATA-SUS-011-REFL.GRAY-2.jpg</picture>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <description_ua>&lt;![CDATA[]]&gt;</description_ua>
+      </offer>
+      <offer id="bc2c63af-5ce3-47a5-8784-4f9dbb1519a7" available="true" in_stock="true" selling_type="r">
+        <name>Змішувач для кухні Armata SUS-011 Refl.Gray із силіконовим виливом (вилив сірий) (CH6481)</name>
+        <name_ua>Змішувач для кухні Armata SUS-011 Refl.Gray із силіконовим виливом (вилив сірий) (CH6481)</name_ua>
+        <categoryId>1</categoryId>
+        <portal_category_id>130103</portal_category_id>
+        <price>749</price>
+        <oldprice>1118</oldprice>
+        <currencyId>UAH</currencyId>
+        <vendor>ARMATA</vendor>
+        <vendorCode>jO-CH6481</vendorCode>
+        <country>Китай</country>
+        <picture>https://ol.partners/Products/Photo/CD3D35D0-B167-459C-9EC7-AE6B8B0B366D</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/bc2c63af-5ce3-47a5-8784-4f9dbb1519a7/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/bc2c63af-5ce3-47a5-8784-4f9dbb1519a7/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/bc2c63af-5ce3-47a5-8784-4f9dbb1519a7/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/bc2c63af-5ce3-47a5-8784-4f9dbb1519a7/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/bc2c63af-5ce3-47a5-8784-4f9dbb1519a7/image_03.jpg</picture>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <description_ua>&lt;![CDATA[]]&gt;</description_ua>
+      </offer>
+      <offer id="0f93e150-ce0a-40a9-8a0d-c88b8bd2bee2" available="true" in_stock="true" selling_type="r">
+        <name>Змішувач для кухні Armata SUS-011 Refl.Black (нерж. сталь) (CH6183)</name>
+        <name_ua>Змішувач для кухні Armata SUS-011 Refl.Black (нерж. сталь) (CH6183)</name_ua>
+        <categoryId>1</categoryId>
+        <portal_category_id>130103</portal_category_id>
+        <price>749</price>
+        <oldprice>1118</oldprice>
+        <currencyId>UAH</currencyId>
+        <vendor>ARMATA</vendor>
+        <vendorCode>jO-CH6183</vendorCode>
+        <country>Китай</country>
+        <picture>https://ol.partners/Products/Photo/757649F9-6FE1-45AC-BB91-276EAEF95E3A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/0f93e150-ce0a-40a9-8a0d-c88b8bd2bee2/CH6183-ARMATA-SUS-011-REFL.BLACK-3.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/0f93e150-ce0a-40a9-8a0d-c88b8bd2bee2/CH6183-ARMATA-SUS-011-REFL.BLACK-2.jpg</picture>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <description_ua>&lt;![CDATA[]]&gt;</description_ua>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
