@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2025-12-07 18:00">
+<yml_catalog date="2025-12-08 16:33">
   <shop>
     <offers>
       <offer id="b-LL1206" available="false">
@@ -462,8 +462,9 @@
         <price>649</price>
         <price_old>899</price_old>
       </offer>
-      <offer id="b-MI6952" available="false">
+      <offer id="b-MI6952" available="true">
         <price>1549</price>
+        <price_old>1999</price_old>
       </offer>
       <offer id="b-MI6978" available="true">
         <price>2449</price>
@@ -1914,9 +1915,8 @@
         <price>1449</price>
         <price_old>1899</price_old>
       </offer>
-      <offer id="b-HB0164" available="true">
+      <offer id="b-HB0164" available="false">
         <price>2249</price>
-        <price_old>2899</price_old>
       </offer>
       <offer id="b-ZX2660" available="true">
         <price>1199</price>
@@ -4533,36 +4533,36 @@
         <price_old>1399</price_old>
       </offer>
       <offer id="b-X105" available="true">
-        <price>1099</price>
-        <price_old>1399</price_old>
+        <price>1399</price>
+        <price_old>1799</price_old>
       </offer>
       <offer id="b-X104" available="true">
-        <price>1149</price>
-        <price_old>1499</price_old>
+        <price>1599</price>
+        <price_old>1999</price_old>
       </offer>
       <offer id="b-8893AB" available="true">
-        <price>749</price>
-        <price_old>999</price_old>
+        <price>899</price>
+        <price_old>1199</price_old>
       </offer>
       <offer id="b-8893AW" available="true">
-        <price>749</price>
-        <price_old>999</price_old>
+        <price>899</price>
+        <price_old>1199</price_old>
       </offer>
       <offer id="b-D6BR" available="true">
         <price>3599</price>
         <price_old>4499</price_old>
       </offer>
       <offer id="b-PULSE5W" available="true">
-        <price>1099</price>
-        <price_old>1399</price_old>
+        <price>1349</price>
+        <price_old>1699</price_old>
       </offer>
       <offer id="b-SAP2L" available="true">
-        <price>749</price>
-        <price_old>999</price_old>
+        <price>1199</price>
+        <price_old>1499</price_old>
       </offer>
       <offer id="b-SWS8UO" available="true">
-        <price>1149</price>
-        <price_old>1499</price_old>
+        <price>1699</price>
+        <price_old>2199</price_old>
       </offer>
       <offer id="b-WJ801" available="true">
         <price>5499</price>
