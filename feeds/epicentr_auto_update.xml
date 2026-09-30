@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-09-30 13:35">
+<yml_catalog date="2026-09-30 17:33">
   <shop>
     <offers>
       <offer id="b-LL1206" available="false">
@@ -970,9 +970,8 @@
         <price>2599</price>
         <price_old>3299</price_old>
       </offer>
-      <offer id="b-ZX0414" available="true">
+      <offer id="b-ZX0414" available="false">
         <price>1499</price>
-        <price_old>1899</price_old>
       </offer>
       <offer id="b-CR0173" available="true">
         <price>1049</price>
