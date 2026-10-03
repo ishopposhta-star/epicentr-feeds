@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-10-02 21:36">
+<yml_catalog date="2026-10-03 09:39">
   <shop>
     <offers>
       <offer id="b-LL1206" available="false">
@@ -4409,65 +4409,59 @@
         <price>1149</price>
         <price_old>1499</price_old>
       </offer>
-      <offer id="b-X105" available="true">
-        <price>1599</price>
-        <price_old>1999</price_old>
+      <offer id="b-X105" available="false">
+        <price>0</price>
       </offer>
-      <offer id="b-X104" available="true">
-        <price>1849</price>
-        <price_old>2399</price_old>
+      <offer id="b-X104" available="false">
+        <price>0</price>
       </offer>
-      <offer id="b-8893AB" available="true">
-        <price>999</price>
-        <price_old>1299</price_old>
+      <offer id="b-8893AB" available="false">
+        <price>0</price>
       </offer>
-      <offer id="b-8893AW" available="true">
-        <price>999</price>
-        <price_old>1299</price_old>
+      <offer id="b-8893AW" available="false">
+        <price>0</price>
       </offer>
       <offer id="b-D6BR" available="false">
         <price>0</price>
       </offer>
       <offer id="b-PULSE5W" available="false">
-        <price>1549</price>
+        <price>0</price>
       </offer>
       <offer id="b-SAP2L" available="false">
-        <price>1299</price>
+        <price>0</price>
       </offer>
       <offer id="b-SWS8UO" available="false">
-        <price>1899</price>
+        <price>0</price>
       </offer>
-      <offer id="b-WJ801" available="true">
-        <price>6449</price>
-        <price_old>8099</price_old>
+      <offer id="b-WJ801" available="false">
+        <price>0</price>
       </offer>
-      <offer id="b-SK-187" available="true">
-        <price>4349</price>
-        <price_old>5499</price_old>
+      <offer id="b-SK-187" available="false">
+        <price>0</price>
       </offer>
       <offer id="b-SK-124" available="true">
-        <price>1899</price>
-        <price_old>2399</price_old>
+        <price>1649</price>
+        <price_old>2099</price_old>
       </offer>
       <offer id="b-HP-11-15M" available="false">
         <price>0</price>
       </offer>
       <offer id="b-HP-11-14" available="true">
-        <price>2149</price>
-        <price_old>2699</price_old>
+        <price>1949</price>
+        <price_old>2499</price_old>
       </offer>
       <offer id="b-HP-11-18" available="true">
-        <price>2149</price>
-        <price_old>2699</price_old>
+        <price>1849</price>
+        <price_old>2399</price_old>
       </offer>
       <offer id="b-SK-SH-1083" available="false">
-        <price>1049</price>
+        <price>1249</price>
       </offer>
       <offer id="b-SK-SH-1076R" available="false">
-        <price>1249</price>
+        <price>1549</price>
       </offer>
       <offer id="b-SK-SH-1076B" available="false">
-        <price>1249</price>
+        <price>1549</price>
       </offer>
     </offers>
   </shop>
