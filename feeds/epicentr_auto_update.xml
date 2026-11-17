@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-17 13:45">
+<yml_catalog date="2026-11-17 17:42">
   <shop>
     <offers>
       <offer id="b-LL1206" available="false">
@@ -293,9 +293,8 @@
         <price>4249</price>
         <price_old>5399</price_old>
       </offer>
-      <offer id="b-KR3382" available="true">
+      <offer id="b-KR3382" available="false">
         <price>6799</price>
-        <price_old>8499</price_old>
       </offer>
       <offer id="b-KR3388" available="true">
         <price>4049</price>
@@ -392,9 +391,8 @@
         <price>2399</price>
         <price_old>2999</price_old>
       </offer>
-      <offer id="b-MI6981" available="true">
+      <offer id="b-MI6981" available="false">
         <price>3449</price>
-        <price_old>4399</price_old>
       </offer>
       <offer id="b-KR3374" available="true">
         <price>5649</price>
@@ -489,9 +487,8 @@
         <price>3149</price>
         <price_old>3999</price_old>
       </offer>
-      <offer id="b-MI6979" available="true">
+      <offer id="b-MI6979" available="false">
         <price>3299</price>
-        <price_old>4199</price_old>
       </offer>
       <offer id="b-CH6483" available="false">
         <price>899</price>
@@ -950,9 +947,8 @@
         <price>1499</price>
         <price_old>1899</price_old>
       </offer>
-      <offer id="b-MI5814" available="true">
+      <offer id="b-MI5814" available="false">
         <price>1899</price>
-        <price_old>2399</price_old>
       </offer>
       <offer id="b-MI1653" available="false">
         <price>1899</price>
